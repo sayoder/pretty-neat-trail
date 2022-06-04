@@ -13,3 +13,4 @@
 *.png~ filter=lfs diff=lfs merge=lfs -text
 /_posts/test filter=lfs diff=lfs merge=lfs -text
 *.js filter=lfs diff=lfs merge=lfs -text
+/testfile filter=lfs diff=lfs merge=lfs -text
