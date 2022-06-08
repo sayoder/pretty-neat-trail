@@ -1,3 +1,48 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a9376dc6e21802f6e3a6961b214822c61aec98c74811ff4661b013b870a211ee
-size 2165
+---
+layout: post
+title: "Burn"
+map_pages: ["glacier-04"]
+categories: glacier
+---
+
+The weather forecast for my fourth day in Glacier looked a little less dire. I
+had an 11-mile day, with one pass to climb over in the morning.
+
+<a name="steep"/> On the Appalachian Trail, Peter (Hobbes) and I used a metric
+for communicating steepness: 1 Steep (or 1 kilosteep) is an elevation change of
+1000 vertical feet in 1 horizontal mile. If I refer to a section of trail as
+"1/2 Steep", I mean it climbs roughly 500 feet in a mile.
+
+Anyway, one thing I loved about all the climbs in Glacier is that the trails are
+maintained at a smooth, consistent grade of about 1/2 Steep. This contrasted
+with my hiking experience on the east coast, which was mostly on trail with
+wildly-variable grades.
+
+The views on the climb up to Triple Divide Pass were just stunning.
+
+{% include photo.html id="091618" %}
+{% include photo.html id="091639" %}
+{% include photo.html id="100416" caption="I unintentionally chased this marmot
+for about half a mile."%}
+
+I stopped for a while at the top of the pass, taking shelter from the wind
+behind a lone pine tree. I sat watching a cloud, caught against the curved side
+of the glacier bowl, drift around in circles before catching the wind stream
+that was blowing over the pass.
+
+There were some snow traversal challenges coming over the other side of the
+pass, but nothing compared to what I had experienced on the previous day. Coming
+down the mountain, there was a stark change of scenery - instead of the lush,
+dark-green forests I was used to seeing, this valley was covered in
+ghostly-white lodgepole pine husks.
+
+{% include photo.html id="131833" caption="A wildfire had swept through the valley in 2006." %}
+
+I understand that fire is like a natural part of the forest lifecycle or
+whatever, but hiking through burn areas just *feels* depressing. I quickly tired
+of walking through the thick undergrowth on the 6 or so miles to my campsite.
+
+I camped at the head of Red Eagle Lake. A few other hikers got in later that
+night, and we spotted a mother and baby moose across the end of the lake:
+
+{% include photo.html id="160556" caption="" %}

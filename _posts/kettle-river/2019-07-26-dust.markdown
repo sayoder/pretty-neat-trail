@@ -1,3 +1,50 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:85300b55a3c06638262a81bf62c0954481c76a31e0a1097241ec0152e5fab974
-size 2403
+---
+start_mile: 395.5
+end_mile: 412.0
+layout: post
+title: "Dust"
+categories: kettle-river
+map_pages: ["049", "050", "051"]
+---
+
+I think Bugs and Moose decided to take another half-day in town. So I said
+goodbye to them in the morning and headed off across the Columbia to start the
+long 45-mile roadwalk to the Kettle Crest Trail. Thankfully, this was mostly on
+forest roads, which tend to be shady and less hard on the feet.
+
+It was another hot morning, and my pack was heavier than it had been for the
+past week or so. The first few miles really dragged on, and I decided to break
+for a long morning nap when I hit the Deer Creek Campground only 5 miles in
+(C395P). I got water and laid there for a long time, alternating between
+sleeping, reading, and snacking.
+
+I didn't get going again until a bit after noon. I felt recharged and ready for
+some gentle roadwalking. At some point I started seeing some footprints in the
+hard-pack road dust... One set of big, flat prints with diamond-shaped studs,
+and another set of medium-sized, Merrell-looking prints. It had to be Morning
+Star and Cookie Monster! So at every intersection, I checked their footprints to
+make sure I was heading the right direction.
+
+{% include photo.html id="133011" caption='Old mine' %}
+
+The storm that I slept through a few nights before was the last gasp of Eastern
+Washington's rainy season, and I was now living in the dusty, dry climate
+that would be my reality until I crossed over the Cascades.
+
+{% include photo.html id="140002" width="60%" %}
+
+The sight of grazing cattle would also become normal in these open-range
+sections of the Colville and Okanogan national forests, but they took me by
+surprise at first. I didn't know ranchers could just let their cows roam all
+over the forest! I was very curious about the ecological effects of open-range
+cattle, especially as I would be drinking out of the very same streams they were
+shitting in.
+
+I got tired again in the late afternoon and laid down on the side of the road. A
+cattle rancher in a four-wheeler stopped by to check on me, and we had a little
+chat about the PNT.
+
+I had a pretty uneventful evening. I listened to an episode of *My Brother, My
+Brother, And Me* to keep myself company as I searched for water to camp by. I
+eventually found a weird little trail clearing next to a stream. The dirt was
+lumpy and covered in cow pies, but it would have to do.

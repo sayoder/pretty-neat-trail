@@ -1,3 +1,59 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:10289fc5ee316a82f9ff57d5faa22ad6544bc169a898ad9aa6be40a6c5301bdb
-size 2957
+---
+layout: post
+start_mile: 902.0
+end_mile: 912.1
+map_pages: ["104"]
+title: "PNTA"
+categories: cascades
+---
+
+I didn't sleep well for fear of being discovered camping on likely-private land.
+I woke up with the first morning glow, took a leak next to a patch of bushes,
+and packed up my tent as fast as possible. I cherish the feeling of anonymity
+and flexibility in these situations -- waking up, packing up quietly in the span
+of five minutes, and becoming just someone with a backpack eating half of a
+pizza at 6 AM.
+
+I hoped to find stove fuel at the outdoor store, but I was disappointed yet
+again. I did find some sunscreen, which would come in handy since my straw hat
+had disintegrated by the time I made it to Concrete a few days earlier. The
+large 8oz fuel can I had bought in Oroville still had a little bit of fuel
+sloshing around in it, and realistically I'd only be using it 2-3 times before I
+made it west to Port Townsend -- I'd be walking through much more populated
+areas for the next week or so on my way through the Puget Sound, and I
+anticipated finding food occasionally.
+
+My next stop was the PNTA office, where I'd mailed hiking poles (I was still
+using a reflector pole as one of my hiking poles, which honestly held up
+incredibly well since Concrete) and new socks and sock liners. I walked on the
+Cascade Trail to get there. The PNTA office was like a weird little house on the
+outskirts of town, and I felt strange knocking on the door. But I was welcomed
+by Eric and Sterling, two of the main full-time employees. They
+gave me my packages, invited me to sit and read some of their history materials
+about the PNT, and insisted on taking me out to lunch and subsequently giving me
+a ride back out to the trailhead.
+
+I happily obliged, feeling incredibly grateful for the generosity of these
+strangers. We went to lunch at a burger joint back in downtown Sedro, and they
+spent much of the time telling me about the PNT trail crews and convincing me to
+join. I distinctly remember Sterling's excitable golden retriever energy and
+Eric's piercing blue eyes, and feeling extraordinarily swayed toward the idea at
+the time (obvious foreshadowing).
+
+<hr>
+&nbsp;
+
+On the way to the trailhead, my benefactors let me know of a good spot to camp
+at the top of Anderson Mountain, off of a little side trail just about seven
+miles up. Sterling's last warning as he let me off at the trailhead was not to
+eat any blackberries by the road, because they often get sprayed with chemicals.
+They dropped me off out of their little red sedan at a nondescript gravel road
+and wished me good luck.
+
+{% include photo.html id="162908" width="60%" caption="A lovely mile marker made by another hiker"%}
+
+My hike up the road to the top of the mountain was fairly uneventful. I found
+the side trail at the top that led me to a wide-open flat area with a panoramic
+view, and decided to settle down there for the night.
+
+{% include photo.html id="200615" %}

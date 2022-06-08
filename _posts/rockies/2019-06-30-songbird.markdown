@@ -1,3 +1,44 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cfa62fd9d8cf9ef7c88ee9675cda94795328f1d949af5af72433729d2cdf7430
-size 2041
+---
+layout: post
+title: "Songbird"
+map_pages: ["003", "004"]
+categories: "rockies"
+start_mile: 25.7
+end_mile: 40.6
+---
+
+Peter and I left camp and began the slow climb up to Brown Pass, chatting and
+updating each other on our lives. Peter explained everything they had learned in
+their last semester at UChicago, which was way more interesting than my blunt
+storytelling about my life in Pittsburgh.
+
+The weather was getting a lot warmer, probably into the 70s in the daytime
+(compared to the 30s and 40s just a week and a half before). We came upon this
+beautiful glacier pond probably 500-1000 feet below the top of the pass, and I
+decided to take a dip.
+
+This was the first time I had actually removed my leggings in about two weeks,
+and unfortunately my bit about being a Never-Nude died right then and there.
+
+{% include photo.html id="131504" caption="Ice-cold, right off of a glacier. I lasted about 10 seconds." %}
+
+The sun was really beating down by the time we made it over the pass. We
+resolved to find a shady spot to eat lunch. Unfortunately, the other side of the
+pass was an old burn area, most of it totally exposed. We kept pushing onward,
+hoping to stumble on some tiny bit of shade, both of us getting crankier
+as we pressed down the steep, rocky descent on the other side of the pass.
+
+{% include photo.html id="144732" %}
+
+We found a tiny aspen next to a stream, and it was just enough shade for both of
+us. We ate lunch there, filtered water, and recuperated for a bit.
+
+That night at Bowman Lake Campgrond, we met a former AT hiker named Songbird,
+and her husband Jeff. We got to talking for a while, and we got on the topic of
+Peter's falling-apart backpack. Songbird and Jeff offered to meet us at the road
+out of the park the next day and drive us to Kalispell, a larger town with an
+REI where we could find a new backpack for Peter.
+
+We slept on the decision and took them up on their offer the next morning.
+
+{% include photo.html id="173602" caption='<i>Spathulariopsis veluptides</i>, "velvet-foot fairy fan"'%}

@@ -1,3 +1,91 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:424489fd8492d6189cb7f821d4d1362d01e2125ab18816968f0084c53e4305c8
-size 4667
+---
+start_mile: 349.7
+end_mile: 365.2
+layout: post
+title: "Standoff"
+categories: selkirk
+map_pages: ["045", "046"]
+---
+
+*This mountain is special in that it is one of only 57 peaks that have a*
+*prominence of greater than 5000 feet in the United States. Again, a word of*
+*caution, if thunderstorms are present it is advisable not to climb to the*
+*barren summit.*
+
+<small>- Tim Youngbluth's PNT Trail Guide, on Abercrombie Mountain</small>
+
+<br>
+
+I think I ate pancakes at the diner again for my second morning in town. I
+remember kind of lolligagging around town, and I kept telling Bugs and Moose I
+was about to leave, but then I just kind of hung out and talked and read in the
+park for a while. I finally left after lunchtime -- I was planning to sleep on
+top of Abercrombie Mountain, which would be a 15.5 mile hike and (more
+importantly) a 5000-foot climb.
+
+The PNT guide mentioned a potential shortcut directly west of 0347P: A hunting
+trail that cuts directly up the slope, saving about 2 miles of road-walking. I
+was obviously enticed, so I tried to take it. Unfortunately, this was more like
+a bushwhack. It probably took me about half an hour in total to make it up
+through the thick brambles to the other side, which is about as long as it would
+have taken to just do the roadwalk.
+
+The climb up to Abercrombie Mountain would mostly be on gently-graded forest
+roads, but I had about 5 miles of exposed asphalt roadwalking to do first.
+Leaving in the middle of the day was a bad idea. Sunblock was running into my
+eyes and I was struggling to stay hydrated. It was such a relief to finally turn
+off onto the quiet, shady forest road.
+
+This was just about the easiest 4500-foot climb imaginable. The road gained less
+than 500 feet of elevation per mile (astute readers will know that this is equal
+to 1/2 Steep, or 500 kilosteep).
+
+{% include photo.html id="144838" caption='<i>Boletus edulis</i>, the "King bolete". Unfortunately infested with fly larvae.' width="60%" %}
+
+I was totally zoned-out, hiking as fast as I reasonably could. Around the bend
+of one switchback, I saw a huge, dark shape ahead of me. It took me a second -- at
+first I thought it was a horse, but then I saw the antlers.
+
+{% include photo.html id="160027_crop" %}
+
+I kept my distance, but we stared at each other for a long while. I just wanted
+to get around him, but the forest was so thick that I had no hope of cutting
+through. So I backed off around the switchback and out of sight, singing loudly
+to myself. When I peeked around the corner, he was much closer and drinking out
+of one of the pools of water on the road. I backed off a second time and
+continued singing loudly. I heard the sound of cracking branches, and when I
+came around the bend again, he was gone. I was in totally awe, but also a little
+nervous. I made my way up the road to the Flume Creek trailhead as quickly as I
+could.
+
+The rest of the climb was pretty uneventful. I filled up to four full liters of
+water at a small spring (east of 0363P) and lugged it up the last 1000 feet of
+the climb.
+
+It was windy and a bit chilly at the exposed top of the mountain -- The hot
+roadwalk I had been on just a few hours previously felt like a distant memory. I
+set up my tent in an established spot protected by some scraggly trees, and
+found a lookout to admire while I cooked dinner.
+
+{% include photo.html id="202342" %}
+
+The lookout brought bad news, though: There were huge storm clouds on the
+horizon, and I could hear distant rumbles. I got there just as the clouds
+overtook the sun. I suddenly became hyper-aware that I was on top of the highest
+point in the surrounding area.
+
+Bambi and Brick showed up just about 20 minutes later, and set up their tent
+near mine. We got in our tents just before the rain hit. And it hit hard -- I
+remember that it was raining so hard that little specks of mud splashed up under
+my tent vestibule and into the tent mesh. I hunkered down and just hoped it
+would end, but it only got worse. Lightning started striking all around, and at
+some point I was no longer able to count full seconds between lightning and
+thunder. The storm was pretty active, and it was striking close with deafening
+bangs. I heard commotion in the direction of Bambi and Brick's tent, and saw the
+light of their headlamps on my tent walls. (I learned later that they decided to
+get out and run back down the mountain a bit. I feel incredibly stupid for this,
+but that idea never occurred to me, so I just stayed put.)
+
+I'm not sure how long I laid there, huddled up in my quilt and praying I
+wouldn't get struck. After a long while, the storm quieted down, and I drifted
+gratefully off to sleep.

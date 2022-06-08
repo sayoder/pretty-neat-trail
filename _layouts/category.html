@@ -1,3 +1,24 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c1ee16ab07e6d1238036d1f0e0c3f3ffd31555042e2d5f1e7ab8b353d2c9b7b5
-size 656
+---
+layout: default
+---
+
+<div class="category-page">
+    <h1>{{ page.name }}</h1>
+
+    <ul class="post-list">
+      {%- for post in site.categories[page.tag] reversed -%}
+        <li>
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{- post.title | escape -}}
+            </a>
+          </h3>
+          {%- if site.show_excerpts -%}
+            {{ post.excerpt }}
+          {%- endif -%}
+        </li>
+      {%- endfor -%}
+    </ul>
+</div>

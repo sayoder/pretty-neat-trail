@@ -1,3 +1,67 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4b557396a806adc0ecdbae07eaf77b10dcacf27734b55e90d7b2b7c435075680
-size 3565
+---
+start_mile: 489.8 (alternate route)
+end_mile: 493.0
+layout: post
+title: "Tonasket"
+categories: kettle-river
+map_pages: ["060"]
+---
+
+I packed up early to get a hitch. Since I had lost a day, it was now Friday, and
+the Tonasket phone repair shop would close for the weekend at 5 PM. If I wanted
+to get my phone fixed, I had to get there as soon as I could. The hitch would
+also be fairly long and inconvenient: 15 miles north into Republic, then 40
+miles west to Tonasket.
+
+There was no one on the road. In 20 minutes of waiting, I got passed by one car.
+I started walking, mostly out of boredom, but partly knowing that if nothing
+else worked, I could at least make it to Republic in four hours or so.
+
+{% include photo.html id="080817" width="60%" %}
+
+I walked up the dusty rural highway for three miles, gawking at the canyon walls
+towering over me, before I was picked up finally by an old guy in a red pickup
+truck with a dog in the passenger seat. I happily jumped in the bed and
+laid flat to watch the world pass by as he accelerated toward Republic. When we
+made it into town, he offered me a few pieces of homemade smoked salmon.
+
+The hitch out of Republic toward Tonasket took even longer. I waited in the hot
+sun for about 2 hours, shielded only by the straw hat I had picked up in
+Republic I stretched out my thumb eagerly for every passing car. It took three
+separate rides to get there, but the last driver took me most of the way.
+
+I made it into Two Rebels Tech in the early afternoon. The eponymous Two Rebels
+were a very sweet couple probably in their 50s, and they took my phone and told
+me they'd have it done in an hour.
+
+I could finally relax. The bushwhacking nightmare I had experienced two days ago
+felt like a distant memory. I wandered blankly around Tonasket, a dusty little
+town that probably no one knows about outside of Okanogan County. There was a
+visitor's center, though, with information boards outside detailing a
+surprisingly-honest version of the town's history -- The Syilx, like most native
+groups in the area, had their land stolen by settlers and were forced onto a
+small reservation.
+
+The lone employee of the visitor's center was delighted to hear that I was
+hiking the PNT, and she let me know that I could camp on the lawn behind the
+building. I was so grateful that I teared up in front of her. On of the hardest
+things about hiking on a budget is finding somewhere to stay in towns... for me, it
+sometimes ends up being just a weird strip of land that looks unclaimed. So the fact
+that someone was just offering me a place to stay, complete with bathrooms and
+power outlets, felt nearly overwhelming.
+
+After getting lunch at a Mexican restaurant, I headed back to Two Rebels Tech to
+pick up my phone. They tried to sell me on a waterproof phone case, but I
+preferred to take my chances rather than drop another $20. In hindsight...
+although I didn't end up breaking my phone again, I should have bought the
+waterproof phone case.
+
+{% include photo.html id="140639" caption ="One of the Rebels testing the selfie camera" width="60%" %}
+
+I had a peaceful evening in town. At the library, I ordered a replacement water
+bladder, some toe sock liners, and replacement trekking poles (The pole I bent
+in Glacier was starting to cause serious issues). A truck stop at the main
+intersection provided a shower, laundry, and a greasy dinner. Feeling lonely but
+satisfied, I camped on the visitor's center lawn and fell asleep quickly.
+
+{% include photo.html id="203558" width="60%" caption="Me testing the selfie camera" %}

@@ -1,3 +1,38 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:be5264141355b6b9eaa6322a63c67a776c01d4da0f2affe910fda85744258d93
-size 1830
+---
+layout: post
+title: "Rest"
+map_pages: ["glacier-07"]
+categories: glacier
+---
+
+I still had three and a half days until I would meet Peter at the PNT trailhead,
+and only about 26 miles to go. I would be in for a couple of short days. My
+itinerary for this day had me hiking only 6.4 miles to Poia Lake Campground. I
+took my time in the morning and savored some more camp store coffee, sending a
+couple last messages to Peter.
+
+I decided that if the weather was nice, I would just find a nice spot on top of
+the ridge to sit for the afternoon. The sun came out and stayed out, making the
+climb up to the ridge feel surprisingly tough. I knew that if there was a
+treeless spot anywhere on the ridge, the view down toward Many Glacier would be
+incredible.
+
+At the very top of the ridge, I saw a faint side trail leading off of the main
+path. I hadn't actually seen anything like this in Glacier; most of the trails
+were pretty well-defined. My curiosity took hold and I followed the side trail
+about a quarter-mile to an open meadow with one of the best views I have ever
+seen.
+
+{% include photo.html id="131015" %}
+
+Right next to the meadow was a pond with clear, cold water. All of my needs were
+met. I sat there for the whole afternoon, feeling the contrast between the
+intense sunlight and the icy wind. When the sun beat down, everything was still
+and quiet. Mosquitos would swarm around me, probably smelling my sweat.  But as
+soon as a cloud came over, the wind would chill me to the bone, blowing away the
+mosquitos and making the pine trees whisper.
+
+I played Big Thief's album *U.F.O.F* out of my phone speaker and cried multiple
+times, feeling so centered, happy, grateful to be doing this.
+
+{% include photo.html id="135815" caption='<i>Spilosoma vagans</i>, "Wandering tiger moth" came and sat with me for a while' %}

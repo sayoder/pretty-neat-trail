@@ -1,3 +1,109 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b38174ab43b5e44f3bf237b52c513fea1797a46b2b363919d572c7b24d8afb85
-size 5613
+---
+layout: post
+title: "Eureka"
+map_pages: ["020", "021", "022"]
+categories: "rockies"
+start_mile: 112.2
+end_mile: 128.0
+---
+
+It was foggy and drizzly again when I woke up the next morning, but knowing I
+would be in town that afternoon gave me more energy. Towns have people, pizza,
+and showers. I was getting down to the dregs of my food - a handful of trail
+mix, a tortilla, and some peanut butter. Thinking of visiting a bona fide
+grocery store made my mouth water.
+
+I had 4500 feet to descend before that, though. The Blacktail Trail is on an old
+mining road bed, and there are still pieces of minecarts and machinery lying
+around in some places.
+
+{% include photo.html id="092408" width="60%" %}
+
+I took the descent fast --- sometimes running, sometimes speed-walking. With barely
+any food in it, my pack felt like it had helium balloons attached to it. I
+started listening to the first episode of Blueprint For Armageddon, Dan Carlin's
+podcast series on World War I. I guess I needed a way to distract myself.
+
+While I was making my way down the mountain, the chronically-inflamed extensor
+tendons on both of my feet were starting to feel a little bit of strain. I had
+had two or three bad tendonitis flare-ups in the previous few years, and I
+wanted to avoid getting off-trail. I knew I would probably have to rest in town
+until my feet felt totally healed.
+
+Right before I got to the border, I heard something crashing through the forest
+below me, and saw a bear in the distance running down the hill toward the
+switchback I'd be walking on in a couple of minutes. I couldn't tell from that
+distance whether it was a grizzly or black bear, but I really wasn't trying to
+run into one either way.
+
+{% include photo.html id="113801" caption="ehhhh it's the border" %}
+
+My tendons were feeling worse and worse as I finished the descent and started
+the roadwalk toward Eureka. I was also low on water, and I had to scramble
+underneath a barbed-wire fence and get some from a somewhat gross-looking little
+stream. I saw the first car (and the first humans I'd seen in almost two days)
+about an hour and a half into the roadwalk, and decided to hitch it. So I stuck
+my thumb out and tried to look friendly.
+
+The pickup slowed down and the couple in the cab told me I could hop in the
+back, but to duck down so that the police wouldn't see. I was so grateful, and
+glad I wouldn't have to punish my feet on the four-mile highway walk into town.
+The feeling of lying in the back of a pickup truck going 40 miles an hour was
+absolutely exhilarating for me after watching the world pass by at 3 miles per
+hour for so long.
+
+At some point during the ride, a heavy yellow bucket fell on my leg and I kicked
+it back up.  The driver pulled over, got out, and came around to the pickup bed.
+As he was tying the bucket to the side of the bed, he explained to me that their
+septic system hadn't been working and they'd been using buckets for a few weeks.
+I tried to play it off, like "Okay, cool, yeah, makes sense," but as soon as he
+started driving again I was laughing out loud to myself.
+
+The couple dropped me off at a drugstore in Eureka. I chatted with them for a
+little while, then went off to find pizza and wifi. I ate at this pizza/arcade
+joint run by three really old women. No one else was there, and I felt like they
+were staring at me the whole time. And the pizza was awful, just completely
+rock-hard. Still desperate for interaction with any humans that would understand
+what I was doing, I posted the following message to the PNT Hikers Facebook
+group:
+
+{% include photo.html id="eureka_fb" fullname=true width="60%" %}
+
+The town hall in Eureka offers free showers and camping, so this would be my
+home base while I was in town. I got a shower in and walked over to the
+laundromat, sweating in only my rain gear (this is always an issue when doing
+laundry in trail towns).
+
+When I got back to the town hall to set up my tent, there were four other PNT
+hikers there! I met Sam, Don, Cookie Monster, and Morning Star. Morning Star and
+Cookie Monster, an older couple from the Netherlands, had hiked the PCT a few
+years prior, hence their already-established trail names. Sam and Don were a
+younger couple from Olympia, Washington -- This was their first thru-hike
+attempt, but they had spent a year and a half researching, preparing, and going
+on shorter hikes.
+
+I was so relieved to finally chat with other thru-hikers, and they all seemed
+like really friendly people. Unfortunately, they were all leaving the next
+morning, and I would be staying for at least another day waiting for my feet to
+heal a little bit.
+
+<hr/>
+
+&nbsp;
+
+I ended up staying in town for two more days -- It seemed wise to wait until my
+feet felt totally pain-free before walking again. I spent my second day
+resupplying at the grocery and hardware stores, and hanging out at the town
+hall. I mailed a box of food to Yaak, a tiny hamlet about 3 days ahead by
+trail with no good resupply option.
+
+On the third day, I randomly met two people a few years younger than me who I
+ended up hanging out with for most of the afternoon. Both had relatively long
+family histories around Eureka, one through the Kootenai people and one through
+European settlers. They showed me around the town's little museums and pointed
+to pictures of their grandparents and great-grandparents, and gave me endless
+takes on growing up in small-town Montana.
+
+My restless energy was getting pretty unbearable by the end of the last day. The
+excitement of being in a town surrounded by other humans had mostly left me, and
+I couldn't wait to get back on trail.

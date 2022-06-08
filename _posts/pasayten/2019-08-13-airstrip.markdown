@@ -1,3 +1,93 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:16197e91a62d456d1afdc46c640df2086ef6b9506af4174bfd55cac056ca0232
-size 5050
+---
+layout: post
+start_mile: 665.9
+end_mile: 689.0
+map_pages: ["078", "079", "080", "081"]
+title: "Airstrip"
+categories: pasayten
+---
+
+I ate a chilly breakfast in the shadow of Sheep Mountain, watching the sunlight
+crawl down the hills ahead of me. I wanted to wait long enough for the sun to
+dry some of the condensation off of my tent, so I took my time and sat in the
+meadow for a while. I took some cold water from a stream flowing through the
+meadow and gravity-filtered it by hanging the filter bag from my tent.
+
+I eventually grew impatient and packed up my sopping-wet tent, heading up the
+hill into the burnt forest ahead. The trail was very unclear and I very quickly
+took a wrong turn on another unmarked, un-mapped trail over Sand Ridge. I made
+it up to the top of that ridge before I suspiciously checked my compass and
+found that I was heading southeast instead of northwest.
+
+A quick turnaround put me back on track after. With a bit more trail guesswork,
+I managed to avoid a couple more navigational pitfalls and made it up the side
+of Quartz Mountain.
+
+{% include photo.html id="090322" %}
+
+The trail crossing the bare meadow here was little more than a series of cairns
+placed every 200 feet or so. The wide-open view gave me my first glimpse of the
+Cascades: A distant horizon filled with spiky, glacier-dotted mountaintops. The
+mountains looked huge and daunting. Far in the distance to the west, a singular
+snow-white dome stood in contrast to the jagged mountains around it. This was
+Mount Baker, a mountain that I would catch my last glimpse of 400 miles later in
+the Olympic Peninsula.
+
+That would be my last big view for the day -- the descent from the ridge took me
+into forest that had burned in 2017. Luckily, trail crews had been working on
+the section all summer, so fresh log cuts guided me just as much as cairns and
+the faint, charred trailbed. Navigation was still difficult, but at least I
+didn't have too many downed trees to worry about. PNT hikers from the previous
+year had nightmare stories about navigating through this forest.
+
+{% include photo.html id="102323" caption='<i>Amanita muscaria</i>, "Fly agaric"'%}
+{% include photo.html id="103821" %}
+{% include photo.html id="113912" %}
+
+A thick gray cloud sheet covered the sky as I wound my way down through the
+charred forest. About a mile before I made it to the Pasayten River (0670P) the
+trail worked suddenly stopped and I had a prolonged obstacle course of downed
+trees to scramble over.
+
+The creek crossing (W670) was particularly challenging -- the bridge had
+collapsed and I had to climb my way through a massive tangle of trees right on
+the other side. I was getting pretty tired and grumpy, and I decided to take a
+break afterward to filter some water and have lunch.
+
+{% include photo.html id="171112" caption="A delicious-looking berry that I have never been able to identify."%}
+
+The water in the Pasayten River was pretty low, so the crossing was easy. It was
+a bit tough to catch the trail on the other side, but a faint trail of plastic
+ribbons pointed me in the right direction. The post-lunch midafternoon slump hit
+me pretty hard; I counted the creek crossings as I passed them, but each time I
+would forget which number I was actually on and check my map again, then realize
+I had only crossed 2 creeks instead of 3... and so on.
+
+I crossed the forgotten, overgrown [Pasayten Airstrip](http://www.airfields-freeman.com/WA/Airfields_WA_C.htm#pasayten)
+around 6:00. I had some time, but I didn't really have a solid plan for camping
+that night. I plowed on ahead alongside Soda Creek.
+
+The trail was really rough here -- the forest hadn't burned recently, but it
+seemed like it was dying for some reason. There were old downed trees
+everywhere, which made it feel kind of sad and eerie. There were some
+huckleberry bushes lining the path, which made for some good drive-by picking.
+
+My trail guidebook alluded to a possible good campsite that could be found by
+backtracking a bit on the primary route after the junction (C680), so when I
+made it there, I decided to try finding a good spot. My hopes were soon dashed.
+The trail on the primary route was absolutely decimated by downed trees. A
+nearly-impassable tangle of trees and branches slowed me down to a crawl. I
+wasted about half an hour going in, trying to find the campsite, failing, and
+backtracking again.
+
+The sun was noticeably setting, and I didn't have much time left. I continued
+back along the side of the creek, desperately looking for flat spots along the
+side of the trail. There was nothing -- the forest was incredibly thick with old
+trees and woody undergrowth. It felt like the woods were closing in around me,
+like I wasn't supposed to be there.
+
+It took another mile and a half of hiking before I was able to find a flat spot
+next to a creek crossing, just barely big enough for my tent. I didn't feel
+comfortable in these woods and I felt strangely exposed. I set up as fast as
+possible and ate a quick mashed potato dinner before stretching and going to
+bed.

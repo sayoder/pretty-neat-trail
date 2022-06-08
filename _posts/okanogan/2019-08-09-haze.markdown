@@ -1,3 +1,74 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:205b2e7fcbe44c2647b4ac14b796ee824ce120fd26cd89e54d5862da53b51fab
-size 4136
+---
+layout: post
+start_mile: 585.5
+end_mile: 602.7
+map_pages: ["068", "069", "070", "072"]
+title: "Haze"
+categories: okanogan
+---
+
+*Be sure to have plenty of water as you leave Oroville for this hot, exhausting
+13-mile road walk... Our objective here should be to pound out the miles to get
+to Nighthawk, then past Palmer Lake, and make the climb to Cold Springs.*
+<small>- Tim Youngbluth's PNT Trail Guide</small>
+
+I said my goodbyes to Joseph and thanked him profusely for letting me stay in
+his backyard. I left town later than I had intended -- I woke up feeling strangely
+nauseous and uncomfortable, and the uncharacteristically-overcast sky seemed to
+mirror my feelings. At least the hazy sky blocked out the sunlight, though, and
+it was a cool 80 degrees for most of the day.
+
+{% include photo.html id="131559" caption="The Similkameen River. You can see
+the old train bed on the left disappear into a tunnel in the hillside." %}
+
+The Similkameen Trail brought me out of Oroville and across the river. I
+followed it blindly, not realizing that I was supposed to get off the trail and
+start roadwalking on the opposite side of the river. To my frustration, the
+trail ended at a closed gate with a sign: "NO TRESSPASSING: Cattle have been
+grazing in this canyon for over 100 YEARS.  Please be respectful of this private
+property." Not only had I gone 1.5 miles out of my way, now this sign was trying
+to minimize the ecological devastation caused by range cattle while
+simultaneously justifying stolen land with the idea that 100 years is somehow a
+long time.  Native people lived in this area for like thousands of years before
+your granddaddy stole it from them to dam up the river and fill it with cow
+shit! I indignantly backtracked to the bridge and eventually found the road that I was supposed
+to be hiking on.
+
+Tim Youngbluth was right: It was a hot, exhausting road walk, but at least that
+I didn't have the sun beating down on me. I started getting the familiar (and
+inexplicable) road-walk rash crawling up my legs, and felt strangely nauseous as
+the day progressed.
+
+{% include photo.html id="135629" %}
+
+I passed by a few RV camps, some people practicing scuba diving (?) in the
+river, and the old ghost town of Nighthawk... and not much else. After I came
+around one bend of the river, the north face of Chopaka Mountain suddenly loomed
+ahead of me, massive and snow-capped, standing out in stark contrast from the
+brown, grassy hills around me. I would be climbing up out of the valley on the
+back side of the mountain the next day. I couldn't wait to be out of the
+lowlands and up in the Pasayten Wilderness, climbing mountains again.
+
+{% include photo.html id="chopaka" caption="(photo stolen from pnt.org. I didn't feel like I was able to capture it. It was like this, but with less snow.)"%}
+
+I had to take more and more breaks toward the evening. I still felt nauseous, my
+legs had huge red rashes on them, and the 8 days of food on my back was making
+everything worse. The last couple of miles were so painful -- My feet hurt and
+every step felt almost unbearable. I scrambled down to the river to tank up on
+water. I'd be camping at Palmer Lake, and the guidebook suggested that it wasn't
+a great place to fill up on water there because it was polluted from gasoline
+engines.
+
+Making it to the campground was a huge relief. The first person I saw was Moose,
+with a half-eaten hot dog in his hand that he'd gotten from some day campers. I
+was so glad to see him. Bugs and Justin and Kate weren't far away -- they'd all
+set up camp near the shore of the lake. I had a good time eating dinner with
+everyone around a picnic table. The tent sites were on hard-pack ground, and it
+was extremely difficult for me to get my steel V-stakes in. The wind was
+blowing, putting even more tension on the setup. I broke one stake, and after a
+huge amount of frustration, I ended up holding all of my stakes down with heavy
+rocks.
+
+Even though I felt frustrated, sick, and in pain, I was so grateful to have
+dinner with my four friends. We talked for a while at a picnic table and
+eventually retreated to our tents to sleep.

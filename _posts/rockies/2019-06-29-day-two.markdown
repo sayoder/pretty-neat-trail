@@ -1,3 +1,58 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:502c1a9a6bcd5818d67108a9ff975f8b9c704ded216b29cd750c0011d1c819a0
-size 2946
+---
+layout: post
+title: "Day Two"
+map_pages: ["002", "003"]
+categories: rockies
+start_mile: 12.7
+end_mile: 25.7
+---
+
+Pretty soon after we set off the next morning, Peter's backpack busted apart
+again. I sat down on the trail in despair. Peter, a perpetual optimist, didn't
+seem to be bothered. After half an hour or so of Pack Wizardry, we were off
+again.
+
+We took the climb up to Stoney Indian Pass pretty steadily - this was Peter's
+first climb on the trail, and I had already had about 10 days to warm up. The
+trail was covered in thick bushes, and we hiked alongside streams, waterfalls,
+and lakes on the way up toward the pass.
+
+Before I started hiking, Stoney Indian Pass was one of the sections of trail
+that I was most anxious about. There was a lot of chatter on the PNT Facebook
+group about how it may be necessary to bring an ice axe specifically for that
+pass, since it often has snowpack well into July. I did end up buying an ice axe
+on ebay, but the snow melted a bit faster this year and I ended up telling Peter
+not to bring it for me.
+
+{% include photo.html id="103502" width="66%" %}
+{% include photo.html id="125130" %}
+
+At the top, we sat with Robert and Mina again, the PNT hikers I had been so
+excited to meet at Gable Creek Campground. We stopped for a snack and took in
+the view before continuing on down the other side of the pass.
+
+{% include photo.html id="125205" caption="Robert playing his ukelele" %}
+
+The snowpack on the other side of the pass was indeed very passable. I remember
+run-sliding down sections of it, as one does when one is confronted with
+non-treacherous snow slopes. Just about a hour later, we met our third and
+fourth fellow PNT hikers, Cooper and Maddie. I think we passed them as they were
+eating lunch, then leapfrogged a few times after that. Maddie was having a lot
+of trouble with blisters on her feet, and she seemed to be in a lot of pain.
+
+When we got down into the valley, the mosquitos started following us again. I
+was getting kind of antsy, because I had grown accustomed to a faster
+pace in my week-and-a-half or so of hiking, and the slower we went, the more the
+mosquitos bit. Hiking alone was hard, but hiking with a partner brought plenty
+of new challenges that I was having some trouble adjusting to.
+
+We ate dinner with Maddie and Cooper at the campsite that night. It always feels
+so good to me to meet other people who are attempting a thru-hike. There's
+always an instant bond that happens over shared challenges and goals. A large
+group of backpackers with a hired guide came in a bit later, but they ended up
+having to dash back to the Canadian border to show their IDs, because I guess
+they did something wrong when they were crossing the first time or something.
+
+We had only one more night in the park, and then we'd be off on the "real" PNT.
+I knew things would be pretty different after leaving the park, but I really wasn't
+quite prepared for the changes to come.

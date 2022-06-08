@@ -1,3 +1,102 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:49fb4880ddcf1d7c8605b0400eccf854961932100feb389b07321e3c715e46c5
-size 5403
+---
+layout: post
+start_mile: 621.4
+end_mile: 644.7
+map_pages: ["074", "075", "076"]
+title: "Tungsten Mine"
+categories: pasayten
+---
+
+The previous night's storm left puddles around our campsite. Bugs and Moose had
+to get up and move their tent at some point. I happened to be set up on a small
+mound, which saved me from getting too wet.
+
+We all used the USFS pit toilet in succession. I hung back to squeeze-filter
+some spring water. The spring was cool and clear, the freshest mountain water
+I'd had in weeks. It was sprinkling a bit, but once I got moving the moisture
+evaporated off of my rain jacket quickly enough to maintain a dampness
+equilibrium.
+
+The Chopaka Mountain Trail took me through a nondescript cattle-infested fir
+forest south of Disappointment Peak (?) to find the Goodenough trail (??). I was looking
+forward to reaching the wilderness boundary, where hopefully I'd make it out
+of cow territory.
+
+I caught up to the others at the base of Goodenough Peak. The guidebook
+directions and signage were incredibly unclear, and it took a bit of discernment
+to find the right direction. It became obvious when we started climbing. The
+trail immediately opened up into grassland with a grand view of our
+gorgeous surroundings.
+
+{% include photo.html id="103737" %}
+
+I climbed up and up the side of the mountain on crisscrossing maze of cow paths,
+leapfrogging the other hikers multiple times, getting lost, and eventually
+bushwhacking up the side of the mountain to converge with Bugs and Moose near
+the top. Our collective mood climbed noticeably higher as we gained altitude.
+It really felt like we were back in the mountains now.
+
+After I passed a cattle gate at the Pasayten Wilderness boundary, the flora
+changed immediately -- Where previously the undergrowth had been thoroughly
+cattle-munched, the forest floor was now covered in wildflowers. This section of
+the forest had seen a light burn in 2015, so the wildflower growth was
+especially impressive. I ran down the side of Goodenough peak giddily and
+light-jogged for about half a mile until I lost my footing on a downhill. I went
+face-first and slammed my knee on a rock, removing a patch of skin and tearing a
+hole in my leggings. Dumb. I removed my backpack so that I could roll around in
+pain for a while, then decided I would clean out the wound and patch it up at
+the next water source.
+
+I reached a small spring (W623) that wound down through the ghostly burned
+forest into a marsh. I decided I would take a lunch break there. I filtered
+some spring water, flushed out my cut with a syringe, then bandaged up with some
+Neosporin and a transparent bandage. Justin, Kate, Bugs, and Moose caught up
+after a while, and I was grateful for their sympathy.
+
+My knee lucklily felt fine to walk on, so there was no reason to change my plan.
+I was hoping to sleep in an old mining cabin mentioned in the trail guidebook,
+and I still had 15 miles to go.
+
+{% include photo.html id="135115" caption="Moose and Bugs having a snack break" %}
+
+I eventually found my way to the Boundary Trail, which I'd be hiking for the
+next 100 miles or so. It wound its way gently through gorgeous alpine meadows
+dotted with wildflowers and splotched with lichen-encrusted boulders. The trail
+barely changed elevation, simply following the contour line. The meadows
+afforded beautiful views to the south. Crystal-clear mountain springs cut
+through the grass, draining into little boggy bowls. This felt like the
+"dessert" of long-distance hiking after weeks of grueling roadwalks, warm
+cow-shit water, and dusty lowlands.
+
+{% include photo.html id="150521" caption="View of Horseshoe Mountain" %}
+{% include photo.html id="151710" width="60%" caption="Teapot Dome" %}
+{% include photo.html id="162856" width="60%" %}
+
+The rest of the day's hike was physically difficult but mentally easy. My feet
+felt tired, but I found myself constantly distracted from the pain by the beauty
+of my surroundings.
+
+{% include photo.html id="184239" caption="Tungsten Mine cabin" %}
+
+I made it to the Tungsten Mine camp around 6:45. It was getting pretty chilly -
+Typically you lose about 3.5 degrees Fahrenheit for every 1000 feet of
+elevation, so at a baseline it was about 21 degrees colder than in Oroville. I
+inspected the larger lower cabin first. It was adorned by bits of rusty old
+mining gear. The floor inside was totally covered in mouse droppings and slanted
+at an alarming angle.
+
+The upper cabin looked like it had been maintained more recently. Inside, there
+were 4 or 5 bed platforms surrounding a large woodstove.  The walls were covered
+in decades of graffiti. Someone had left a printout in the cabin detailing the
+history of the Tungsten Mine from the firsthand perspective of a person who had
+worked there in the 1910s (I think it was from the book *Discovering
+Washington's Historic Mines Vol. 3*). I sat for a while reading in silent awe of
+the engineering feats and working/living conditions that it described. All of
+the miners stayed together in the lower cabin, and in the winter they built a
+massive snow road all the way from Nighthawk so that all of the machinery could
+be pulled up to elevation.
+
+Bugs and Moose showed up not long after. We ate dinner and staked out our
+sleeping platforms, hung our packs out of rodent reach, and drifted off to
+sleep. I was rudely awoken a few times throughout the night by mice running
+across my legs.

@@ -1,3 +1,49 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2c49cf11925a41835a8b71c9f9b0db4757ecb16ad2759d1786319f0ecd5ffe35
-size 2427
+---
+layout: post
+title: Gear
+permalink: /gear/
+tent_photos: ["/assets/pix/0818_064838.jpg", "/assets/pix/0819_071534.jpg", "/assets/pix/0819_070701.jpg"]
+---
+
+
+I spent between 6 months and a year seriously thinking about what gear I was
+taking - researching, buying stuff, returning stuff, weighing stuff. I took a
+5-day shakedown hike along the AT in Pennsylvania to test everything out. I
+ended up with a gear set that mostly worked really well for me, but different
+things work for different people.
+
+[Here](https://lighterpack.com/r/28fbrg) is a breakdown of everything I carried
+in my pack toward the end of the trip.
+
+### **Backpack** - Osprey Exos 58
+I took an older version of this pack on the AT, and then cashed in on the
+lifetime warranty to trade my beat-up pack for a new one. I stuck with this pack
+mainly for the comfort factor. It can handle heavy loads without losing a lot of
+stability. The main backpack body doesn't directly touch your back; there's a
+mesh suspension in-between that allows for a lot of airflow. This is one of the
+biggest selling points of the pack for me -- it doesn't get swampy and itchy.
+
+The biggest downside of this pack for me is the lack of hip pockets. They were
+removed in the 2018 version. the rumor is that people would leave snacks in the
+hip pockets, then rodents would chew through the pockets and people would send
+their packs in for repairs/replacements, and Osprey was tired of replacing them
+for that. Hip pockets are totally essential for me; I like to have my camera,
+compass, chapstick, and map pages readily accessible so I can avoid taking off
+my pack as much as possible. Nothing kills my momentum like having to get
+something out of my pack.
+
+So I ended up ordering a
+[hip pocket from Gossamer Gear](https://web.archive.org/web/20200302030144/https://www.gossamergear.com/products/hipbelt-pocket),
+and sewing/gluing it onto my pack. That worked pretty well.
+
+My only other issue with this pack is The Squeak. Mine will randomly start
+squeaking sometimes with every step, for a few hours, and then gradually get
+quieter again. It doesn't happen every day. I think it tends to happen more the
+drier the atmosphere is.
+
+I see rumors on the internet that you can mitigate the squeak with graphite
+powder or silicone lubricant. It's probably worth a shot.
+
+### **Tent** - Gossamer Gear The One
+
+{% include carousel.html height="60" unit="%" photos=page.tent_photos %}

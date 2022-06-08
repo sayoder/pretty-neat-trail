@@ -1,3 +1,127 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:423bf84a01df90a64fb9ac3196c1d1cb6856ea11a39da629dde73c66ea16018b
-size 7137
+---
+layout: post
+start_mile: 784.2
+end_mile: 817.0
+map_pages: ["090", "091", "092", "093"]
+title: "Shuksan"
+categories: cascades
+crossing_photos: ["/assets/pix/0819_184929.jpg", "/assets/pix/0819_184944.jpg"]
+---
+
+The air was cold and moist when I woke up. The condensation had thickened on my
+tent walls and pooled into freezing-cold puddles on the nylong floor. I ate a
+quick breakfast on Hannegan Peak in a cluster of ragged cumulus clouds. Mount
+Shuksan was now intermittently visible to the south.
+
+{% include photo.html id="072545" %}
+
+I packed up as the clouds started to condense and bounded down the trail toward
+Hannegan Pass in hopes of finding Moose and Bugs there. About a tenth of a mile
+from the campsite, I took an unofficial side path that led to the campsite
+privy. I made it there just as I saw a familiar face coming up from the other
+side: Sure enough, it was Bugs!  We caught up for a minute and I stepped down
+the hill to let her do her thing.
+
+I found Moose there too and we talked for a while. He told me
+about the Thai hiker he'd met who talked to them for a few minutes and then
+exclaimed, "You're the guy with stars on his knees!!"
+
+Because Bugs and Moose had a lot of experience hiking in the Cascades, they were
+both a bit disappointed by the lack of views along the main PNT route -- the PNT
+mostly followed river valleys through this whole section, and most of the views
+were on side trails. Apparently, the PNT used to take a high route through the
+Cascades, but it was switched to the river valleys to avoid some treacherous
+snow crossings.
+
+The three of us set off together down toward the trailhead (C781P). The trail
+was mostly open and brushy with a view of Nooksack Ridge to the left and a few
+forested stretches. We all planned to hike to the Route 542 "highway of
+death", hitch through the treacherous roadwalk to the next trailhead, and find a
+spot to camp somewhere near Baker Lake.
+
+{% include photo.html id="100144" caption="A USFS bee project" %}
+
+I went on ahead of Bugs and Moose when they stopped to use an NFS pit toilet at
+the start of the forest road. The road wound through a dark, beautiful cedar
+and fir forest, and I followed it with my mind wandering for 8 miles out to
+highway 542. The trail guide described the highway as a treacherous roadwalk
+with hairpin turns and no shoulders, so I didn't feel guilty about hitching it.
+
+I stood next to the highway and stuck out my thumb, and it only took about 15
+minutes to get a hitch. A 90s VW Vanagon pulled up and the woman in the
+passenger seat hopped out and slid open the door, commanding me in a thick
+French accent to pile into the back in the seat behind her son. I did, and we
+were off. And so I became a part of this French family's American road trip.
+They were incredibly friendly and didn't act even a little bit weird about
+picking up a random hitchhiker. We made small talk for the windy drive up toward
+the next trailhead. On the way, we passed Teddy, who had apparently decided to
+brave the roadwalk.
+
+The French family dropped me off at a tourist-trap ski area with a lot of short
+well-developed trails and a restaurant / gift shop ordeal. I saw a sign
+advertising ice cream at the restaurant and followed it with no further thought
+or deliberation. When I walked in, a familiar laugh told me that Bugs and Moose
+had done the same.
+
+I joined Bugs and Moose at their table and we sat eating our ice cream
+sandwiches. I took the opportunity to plug my battery pack into a power outlet,
+something I hadn't seen since I left Oroville 11 days before. We didn't stay at
+the restaurant long; we were hoping to make it 17 more miles or so to Baker Lake
+before nightfall. We did take a quick detour up to Artist Point, where car
+tourists crawled over the lookout area to try to get pictures with Mount Shuksan
+in the background. Moose and I played on a patch of snow that still hadn't
+melted from the previous winter.
+
+{% include photo.html id="134402" %}
+
+After a little bit, we made our way to the Lake Ann trailhead. I think I told
+Moose and Bugs to go ahead of me while I used the pit toilet. I found the trail
+on my own after a bit of back and forth, then started the long descent. I
+listened to Prokofiev's second piano concerto on my way down to get in the mood.
+
+I caught up to Bugs and Moose again sometime after the junction with the Swift
+Creek Trail (0798P). The trail was rough and slippery, and we were hiking at a
+breakneck speed. Or a breakpole speed, as it were -- On one sharp switchback, I
+slipped on some roots and jammed my hiking pole into the ground, breaking the
+bottom segment in two as I fell onto my tailbone. Damn. I used that as a tent
+pole every night and I didn't really have anything to replace it. I got up and
+brushed myself off, and Bugs and Moose made sure I was okay before we continued
+careening down the trail.
+
+About five miles and a few treacherous waterfall crossings later, we made it
+down to Swift Creek. The creek was at least thigh-deep with a fairly strong
+current, making it a very tough ford. I went first, stringing my shoes on my
+pack and trying to grip the smooth rock bed with my bare feet. Bugs and Moose
+came soon after, and we took a short break to put our socks and shoes back on.
+The next creek crossing thankfully had a new log bridge, saving us from another
+shoe removal.
+
+{% include carousel.html height="480" unit="px" instance="crossing" photos=page.crossing_photos arrowcolor="#aaa" caption="Bugs and Moose crossing Rainbow Creek" %}
+
+It was almost 7 PM and the light was fading fast. The trail was now an old Jeep
+road, and we pushed on at a grueling pace -- partly because we wanted to make it
+to the lake so we could get to town the next day, and partly because the
+mosquitos were now swarming and biting us with ferocity. At an old trailhead
+(0806P), we found a note that Shepherd had left behind, a short poem in rhyming
+verse encouraging us to turn the other way on the road to visit the Baker Hot
+Spring. Unfortunately, stopping to read the note was already too much of a
+concession to the mosquito hordes. Bugs and I were yelping and slapping at
+ourselves. It didn't seem likely that we'd want to stop and sit in a pool of
+stagnant water.
+
+The mosquitos reached an unbearable level a few miles down the road near Park
+Creek Camp (0809P). A section of the forest had been recently logged, and the
+mosquitos swarmed me in a way I've never been swarmed before. I frantically
+dropped my pack to deploy the nuclear option: 100% DEET bug spray. I'd only used
+it once or twice before on the trail, and I sprayed it liberally until my skin
+stung.
+
+The three of us eventually found a spot to camp at a small boat launch off of
+Baker Lake Road. It was almost dark by the time we got there. Moose let me use
+his hiking pole to set up my tent, and we ate dinner around a little firepit. I
+was more than 5000 feet below where I'd camped the previous night, and I found
+the air uncomfortably hot and humid.
+
+I looked forward to having a break in town. The hike from Oroville had been
+long, beautiful, and exciting, but I was ready to stop walking and take a zero
+day.

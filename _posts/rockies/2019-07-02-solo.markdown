@@ -1,3 +1,74 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fec4d0d009f08121fa3aa15e1d069354973c8d7093b48e536d82dbec23107adc
-size 4042
+---
+layout: post
+title: "Solo"
+map_pages: ["013", "014", "015"]
+categories: "rockies"
+start_mile: 54.9
+end_mile: 73.0
+---
+
+I woke up later than I expected to that morning, and packed up my tent quickly
+so no one would see me camped on what was most likely private property. I
+chatted with Peter, who was still lying groggily in their hammock, and headed
+down the road to the Polebridge Mercantile.
+
+The Mercantile gives away free cinnamon buns to PNT hikers, and I was quick to
+capitalize on the opportunity. I sat happily on a rocking chair on the porch for
+about an hour, drinking coffee and petting the store cats.
+
+{% include photo.html id="090827" %}
+
+Two sporty-looking adults and a child, all with matching hats, walked up and
+asked me if I was a PNT hiker.  I didn't parse them as thru-hikers; they
+looked too clean and put-together. It turns out that I had run into
+<a href="https://www.backpacker.com/news-and-events/buddy-backpacker-triple-crown" target="_blank">
+Buddy Backpacker,</a>
+the youngest person ever to complete complete a Triple Crown (thru-hiking the
+AT, PCT, and CDT). And "Buddy's Mom", and "Buddy's Dad". Those are their trail
+names, unfortunately.
+
+Buddy's Dad gave me my own personal Buddy Backpacker sticker and the three of
+them trotted off, leaving me a little bit dazed and bewildered. Peter came down
+the road a few minutes later and I told them about Buddy Backpacker, which
+activated their competitive spirit. So we left and started heading up the forest
+road. This feels like it was the start of the "real" PNT: No more
+perfectly-maintained national park trails, no more signage.  Just strange forest
+roads and rough trails, with little real-life confirmation of the PNT's
+existence.
+
+We hiked up the road together for a fairly unventful 5 miles or so, and the
+whole time Peter was wrestling with their decision to keep hiking. We sat down
+to have lunch, and Peter decided right there that they were going to turn back.
+
+This wasn't incredibly surprising to me, but it was still a huge bummer. I hiked
+alone all the way through Glacier and loved it, but I had been looking forward
+to being with Peter again. This was a huge change of plans, and it felt like I
+was losing something. We hugged each other goodbye. I was sobbing. We turned
+away from each other, hiking down the road in opposite directions.
+
+I continued on, feeling a lot of fear and uncertainty - I didn't know if I could
+do this whole thing alone, and I wasn't convinced that I would meet other people
+on the trail besides Buddy Backpacker and his parents (no offense).
+
+I was still crying ten minutes later when I came around a bend in the road and
+saw a large brown lump 50-100 feet ahead of me. It saw me too - its round ears
+perked up in my direction. My first grizzly sighting! It ran off the road into
+the forest, gaining the high ground on me. I was stunned and terrified. I
+waited a few minutes and started speed-walking down the road, singing "Please
+Don't Rip My Throat Out, Mr. Bear" at the top of my lungs. Just around the next
+bend, I ran into the Buddy Backpacker Trio and gave them a quick life update:
+"Hobbes just left me, and then I saw a grizzly bear".
+
+For the rest of the day, I was just trying to hike through my loneliness. I had
+to stop every once in a while to cry. The road turned into a "trail", which was
+really just an old decommissioned road bed, and a few miles later joined the
+Whitefish Divide Trail, more of an actual trail. A storm started rolling in and
+I finished the last couple miles of my hike in the rain.  I set up in the rain
+at Red Meadow Lake (C74), a nice little NFS campground. I met two cyclists there
+who were biking the Great Divide Mountain Bike Route; they were kind enough to
+get out of their tent in the rain and help me set up.
+
+I laid in my tent for a long time that night before sleeping. I had felt so sure
+about this just the previous night, but now that Peter had actually left I was
+having some doubts about my ability to do it alone. For now, my goal was just to
+get to Eureka.

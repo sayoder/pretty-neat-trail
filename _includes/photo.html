@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eeb3984015fe89f6659b3ce71be68f0183604c1b2bb82688643628f220537eb9
-size 796
+<figure class="image">
+    {%- assign widthstr = '' %}
+    {%- if include.width -%}
+      {%- assign widthstr = 'style="width: ' | append: include.width | append:'"' -%}
+      {%- assign widthstr_cap = 'style="width: ' | append: include.width | append:'; margin: auto;"' -%}
+    {%- endif -%}
+    {%- if include.fullpath -%}
+      <img class="inline-photo" src="{{ include.id }}" {{ widthstr }} />
+    {%- elsif include.fullname -%}
+      <img class="inline-photo" src="/assets/pix/{{ include.id }}.jpg" {{ widthstr }} />
+    {%- else -%}
+      {%- assign datestr = page.date | date: "%m%d" -%}
+      <img class="inline-photo" src="/assets/pix/{{ datestr }}_{{ include.id }}.jpg" {{ widthstr }} />
+    {%- endif -%}
+    <figcaption {{ widthstr_cap }}>{{ include.caption }}</figcaption>
+</figure>

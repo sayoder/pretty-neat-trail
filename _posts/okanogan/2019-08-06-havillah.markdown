@@ -1,3 +1,83 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6aff1ed3d4ba13b7f8f3f529b463eb642ade1347cd8ae502a0105fc8baee0f47
-size 4774
+---
+start_mile: 544.7 (alternate route)
+end_mile: 568.0
+layout: post
+title: "Havillah"
+categories: okanogan
+map_pages: ["065", "066", "067"]
+---
+
+I had been out of my tent for about 10 seconds in the morning when I heard the
+fire lookout yell down, "There's coffee up here if you want some!" I packed up
+as quickly as possible and climbed up to the tower. The lookout greeted me
+outside of the tower with a hot mug of coffee and a handshake, inviting me
+inside.
+
+The interior of the lookout tower was dominated by a large [Osborne Fire
+Finder](https://en.wikipedia.org/wiki/Osborne_Fire_Finder){:target="_blank"
+:foo="bar_"}.  A cot (not possibly long enough for this stick-shaped man) was
+shoved up against the wall next to a huge stack of books and a radio receiver
+covered in dials and buttons. The lookout gestured outside at the hazy sky.
+"Look at all that smoke...  dis-*GUSTING*". Apparently it had blown in that
+morning from some fires in British Columbia and killed his entire vibe.
+
+I sat down on a metal chest and he sat on his cot. He told me quite a bit about
+his job -- it didn't pay very well, but he liked it up here. The USFS switched
+most of its focus on fire detection to satellite imagery over the past couple of
+decades, partially driven by austerity, but nothing compares to having human
+eyes on the ground. This conversation brought us pretty far into politics; we
+collectively bemoaned the way the federal government prioritized budgeting for
+endless war and disinvested from basically all social goods, including the
+Forest Service.
+
+The lookout asked to see my PNT maps, and whether I was planning to stop at the
+church in the hamlet of Havillah. He passed me his binoculars so he could point
+out the route that I'd take. A sparse network of thin grey roads was etched into
+the valley's endless sea of brown grass. I followed the lookout's directions to
+find a miniature white steeple poking up from among a cluster of five or six
+other buildings.
+
+After thanking the lookout for the coffee and conversation, I used the outhouse
+and started working my way down the mountain -- first on a trail, then on a dirt
+road, then through a labyrinth of cow paths. Besides some tricky navigation, a
+section of blowdowns, and a few wrong turns, the hike down to Havillah was quite
+uneventful. The dirt road opened up at the bottom of the mountain into a huge,
+nearly-treeless valley. My straw hat, which had been dangling on the back of my
+pack since Republic, finally came in handy again.
+
+It was over 100 degrees that afternoon. The sun beat down relentlessly, and the
+white steeple I had seen through binoculars earlier that morning grew larger and
+larger. I was ready for a break when I made it to the church. A bulletin board
+was set up outside, welcoming PNT hikers to use the church as a space to rest.
+
+In the church kitchen, there was a thank-you note left behind by Shepherd, one of the
+hikers I had met coming out of my bushwhacking disaster. She had stayed there
+the previous night along with Teddy and Karma. I was glad to know there would be
+more hikers to hang out with in Oroville. After hydrating myself and washing the
+dirt out of my fingernails, I went to the sanctuary to check whether there was a
+piano. To my delight, there was. I waited out the rest of the hot afternoon
+playing some pieces from memory and sight-reading through the Lutheran hymnal.
+
+I met a new PNT hiker named Sean just before I left. He was drenched in sweat
+from the roadwalk, and didn't seem to be feeling too talkative. I welcomed him
+to the church and hiked back down the road to my next destination -- hopefully a
+spot to camp along the Whistler Canyon Trail.
+
+Just as I reached the turn-off onto the next road (0551P), I saw six figures walking
+toward me in the distance. It couldn't be... six more PNT hikers at the same
+time? As the figures grew closer, I recognized Bugs, Moose, Morning Star, Cookie
+Monster, Justin, and Kate. I was particularly excited to see M.S. and C.M., as I
+hadn't caught up with them since Republic.
+
+We chatted excitedly in the road for a couple minutes, then I let them get out
+of the sun and make their way to the church. That burst of social energy kept me
+going for the rest of the evening. I followed the dirt road to the Whistler
+Canyon Trail, which was really just another dirt road. After filling up a few
+extra liters of water at a cow trough ("Twin Springs", north of 0561P), I hiked
+until I found a flat spot to camp in the sparse forest. I hoped that my seven
+friends would catch up that evening, but they ended up camping further back on
+the road.
+
+I was looking forward to reaching Oroville the next day, mostly because it was
+the last stop before the Pasayten Wilderness. I couldn't wait to be back in the
+mountains.

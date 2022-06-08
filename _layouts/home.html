@@ -1,3 +1,25 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e6e7873347cad0b3f97499f4ce7489bbd82debc611340cdac0174f3da5dcf450
-size 697
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {% if site.category.size > 0 %}
+    <div class="category-list">
+      {% for cat in site.category %}
+          <div class="category-image" style="background-image: url(/assets/thumbs/categorypix/{{cat.image}}.jpg)">
+            <div class="category-text">
+              <div class="category-number"> {{ cat.trail_section }}</div>
+              <div class="category-slidein"> | <a class="category-name" href="{{ cat.permalink }}">{{ cat.name }}</a></div>
+            </div>
+          </div>
+      {% endfor %}
+    </div>
+  {% endif %}
+
+</div>

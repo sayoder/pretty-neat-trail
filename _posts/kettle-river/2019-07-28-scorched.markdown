@@ -1,3 +1,70 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:59ce93d74245cf7f899df3ed0f3df82353a5c53389ecb9311099688b1f187a56
-size 3769
+---
+start_mile: 433.6
+end_mile: 454.8
+layout: post
+title: "Scorched"
+categories: kettle-river
+map_pages: ["054", "055", "056"]
+---
+
+I ate a traditional breakfast of cold oats and a Lil' Debbie Cosmic Brownie, and
+set off quickly in hopes of catching Cookie Monster and Morning Star. About a
+half-mile past my makeshift campsite, the road ended in a big "tank trap", a
+wide pile of dirt followed by a deep pit. Unfortunately, my instructions were to
+hike around it and navigate through a maze of overgrown, decommissioned road
+beds for the next few miles.
+
+The old road beds were fairly passable for the first four miles or so. My pace
+was slowed by blowdowns, thick alder growth, tough navigation, and a few herds
+of cattle. I wound through the maze of decommissioned forest roads, checking my
+map and compass at every junction.
+
+I filled up on water at a small spring (W430) before pushing on through the last
+couple miles of decommissioned roads. The last mile was the worst -- an absolute
+jumble of downed trees. It became difficult to even find the road bed underneath
+the piles of logs, and every step forward was a puzzle. I lost my compass
+here... it probably fell out of my hip pocket while I was climbing over a log.
+
+I was relieved when I finally made it to Deer Creek Summit (0434P). This meant
+two things: A pit toilet, and the end of the long roadwalk from Northport. I
+would be hiking on the Kettle Crest Trail until I made it to Republic.
+
+However, there was a sign posted at the start of the Kettle Crest Trail saying
+that the first few miles of the trail were closed because of some chemical
+cleanup project... I think the danger was supposedly "flying debris". Luckily, a
+forest road paralleled the trail for the first few miles, and the detour was
+fairly well-marked.
+
+I joined back up with the Kettle Crest trail at a very confusing junction with
+unhelpful signage (0437P), but I saw Cookie Monster and Morning Star's
+footprints leading the way. I was now in the heart of a swath of forest that had
+burned in 2015, surrounded by tall brush, overgrown wildflowers, and charred
+trees. I remember eating lunch against a big charred tree husk, the only spot of
+shade I could find in the eerily-bright forest.  There were no leaves or pine
+needles to block out the intense midday sunlight, and I hiked in brutal heat for
+the next 9 miles.
+
+{% include photo.html id="141514" %}
+
+The heat really started to wear on me into the late afternoon, but as I started
+climbing up a switchback, I saw two hikers in familiar wide-brimmed hats above
+me. I had finally caught up to Cookie Monster and Morning Star! I shouted at
+them from below, and they waited for me to catch up.
+
+Morning Star and Cookie Monster looked just as hot and tired as I was. They
+convinced me that I needed to buy a hat. We stopped and talked for a bit,
+exchanged camping plans (we all planned to camp at the intersection with the Old
+Stage Trail), then I passed ahead of them. I felt renewed and refreshed, finally
+able to shake off the loneliness from the previous few days. On top of that, I
+was almost out of the 2015 burn area and into the 1988 burn area, which was
+filled with beautiful multicolored wildflowers and young pine trees.
+
+My water source that evening was a spring-fed cow trough. It was impossible to
+move the pipe away from the trough, so I was forced to submerge part of my water
+bladder into the nasty, algae-filled cow water. The "spring" water was warm and
+still tasted like moss.
+
+I settled down at the flat saddle where I planned to camp (0449P) and waited for
+Cookie Monster and Morning Star, who weren't far behind me. We chatted over our
+respective dinners (boxed macaroni and cheese for me, a delicious home-cooked
+dehydrated stew for them) and went to sleep.

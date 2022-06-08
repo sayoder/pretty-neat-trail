@@ -1,3 +1,92 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c5c48e7644aa52b2e529680b9ecc361bb43bb80106022a43447a4b3d6e08ec4b
-size 4881
+---
+start_mile: 454.8
+end_mile: 466.4
+layout: post
+title: "Republic"
+categories: kettle-river
+map_pages: ["056", "057", "058"]
+republic_photos: ["/assets/pix/0729_081358.jpg", "/assets/pix/0729_092439.jpg", "/assets/pix/0729_103751.jpg", "/assets/pix/0729_104342.jpg"]
+---
+
+I felt carefree and content as I climbed up to Copper Butte that morning.
+Morning Star and Cookie Monster had left before me, and I passed them on the way
+up. Unfortunately, Morning Star was having serious pain in his knee, which
+forced him to slow his pace.
+
+{% include photo.html id="075649" width="60%" %}
+
+I took a long break at the junk pile, admiring the infinite view to the east and
+waiting for C.M. and M.S. to make it up to the top. They hung out for a few
+minutes. I watched them leave, and continued to sit there for another hour
+or so.
+
+The rest of the hiking day flew by -- I had only 12 miles to highway 20, where I
+would hitch west into Republic. This section of the Kettle Crest Trail was
+filled with wildflower meadows and scenic views to the east. I passed Cookie
+Monster and Morning Star while they were trudging down a hill. Downhills were
+especially hard on Morning Star's knee.
+
+{% include carousel.html height="60" unit="%" instance="repub" photos=page.republic_photos arrowcolor="#ddd" caption="(That's a quarter next to the mushroom, for scale)" %}
+
+I ate lunch at a boulder outcropping next to a small piped spring (C454). I
+gravity-filtered some water there while I climbed up the side of the ridge to
+find a spot to poop.
+
+<hr>
+<br>
+It was well into the afternoon when I made it to Sherman Pass and started
+hitching.  I watched a team of cyclists who were doing a supported ride across
+the country climb up the hill one-by-one as I waited for a car to come through.
+
+It took about an hour and a half to get a ride, with probably 30-40 cars passing
+by in that time, and a lot of semis. I caught a ride with a woman with three
+kids in the backseat. She was really friendly, and talked to me about her job as
+a DNR wilderness firefighter for the entire 40-minute drive into Republic.
+Unlike most people I had encountered so far, she knew a lot about the PNT and
+had picked up other PNT hikers before.
+
+The driver asked me where I was staying in town, and I said I was hoping to just
+camp out somewhere. So when we pulled up into Republic, she wrote down the
+address of her house and told me I could camp in her backyard, even though she
+wouldn't be there. I thanked her profusely, got out of the car, and headed
+straight for the post office.
+
+Republic immediately struck me as a creepy little town. It had a very Gold Rush
+vibe, and I think they were trying to lean into it, but the result made me feel
+uneasy.
+
+At the post office, I retrieved the package containing everything I had ordered
+in [Metaline Falls]({% link _posts/selkirk/2019-07-21-metaline-falls.markdown %}),
+plus the new camera that my mom sent. My next task was to fix my phon
+screen, so I walked down Republic's main street to the library, where I watched
+a YouTube repair video while I used the phone repair kit I had ordered to pry
+off my old screen and install the new one. I was actually missing the
+double-sided tape that I needed to keep the new screen properly in place. But it
+seemed Good Enough to me.
+
+I bought a sandwich from a little health food store in town and ate it on the
+curb as the sun started setting. With my newly-functional phone screen, I looked
+up directions to the address that my driver had left for me, and headed over to
+Adams Street to camp in this random person's backyard.
+
+When I got there, I realized I had no water, so I had to walk back into town to
+find some. It was dark, and there was this creepy guy sitting outside of a bar
+with a big German Shepherd. They both stared at me as I walked past.
+
+I found a water spigot at a tiny park in town and filled up a few liters. As I
+was screwing the caps back on, the guy with the German Shepherd came out of
+nowhere. He stopped in front of me and said, "Hey, pet the dog." I panicked, and
+turned the other direction and walked away from him without saying anything. He
+must have run around the block the other way -- he popped out around the next
+corner and said, "What are you afraid of? She doesn't bite. Pet the dog."
+
+I was seriously freaked out at that point, and I broke into a full run (with my
+backpack on). The guy still followed me, but at a slower pace. I stopped outside
+of a bar where a bunch of people were hanging out outside, and the guy came up
+to me with his dog, who was now bristling and growling. I yelled at him, "Why
+are you following me?" He immediately turned around and walked the other
+direction, and I disappeared into the night as fast as I could so that he
+wouldn't find me.
+
+I had a restless night, too anxious and hot to get enough sleep. I couldn't wait
+to get out of this extremely cursed town.

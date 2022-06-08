@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f6c64527187d11428aeb9114d8f6b80f6251eb2f53c4d6527656dd19a5e40eec
-size 96
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+_minima-2.5.1
+./assets/pix_old
+lastpath

@@ -1,3 +1,73 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0a10f77074d417db92a4496da1f05178e279afa522a330f05ae12669a76ba47e
-size 3867
+---
+layout: post
+start_mile: 912.1
+end_mile: 931.2
+map_pages: ["104", "105"]
+title: "The Alps"
+categories: cascades
+---
+
+My morning descent down the western side of Anderson Mountain offered a couple
+glimpses of Mount Baker, the volcano that had followed me for hundreds of miles.
+Navigation was a little challenging, but there were some rare blazes marking the
+correct path. I listened to some episodes of *My Brother, My Brother, And Me*
+that I had saved on my phone in order to provide some entertainment on the
+endless dirt road surrounded by endless Douglas Firs.
+
+I was quite thirsty by the time I made it down to the road, and couldn't find a
+place to fill up, so I stopped at a nearby bar to ask for water. The bar owner
+chatted me up while she let me use the spigot -- she was very curious about the
+PNT and what I was doing. I thanked her profusely for the water and moved on.
+
+Another up, another down. I wandered along the main drag in Alger until I
+found the mysterious gate I was looking for, described in the trail guide as
+"just east of the first house that you come to after a break in the forest".
+This was my trail up to the Alger Alp.
+
+Unfortunately Alger Alp is not quite as impressive as one would hope based on
+the name. After a nondescript up and down on another dirt road surrounded by
+trees, in earshot of the roaring I-5, I made it to a small lake. The trail guide
+primed me to expect a spigot in this area, but I found none. I had been relying
+on it to fill up again, so now I was thirsty with no water in sight but the
+fairly-dirty-looking pond water. I met someone sketching the pond and asked them
+if they knew of any spigot around; they told me they come up here multiple times
+a week and there has never been a spigot.
+
+So I trekked on. I had a short, hot road walk to take me under I-5. Shortly
+after the underpass, I saw a government building, the Samish Water District
+office. Might as well try. There was no spigot to be found, so I knocked on the
+locked glass door.
+
+Someone let me in when I explained that I was looking for water, people in the
+office beheld me with wide eyes and stares. The main secretary was kind enough
+to fill up my disgusting beat-up SmartWater bottles from their office water
+fountain, and I got out of there as fast as possible.
+
+A series of confusing turns led me off of the paved road, onto a dirt road, and
+then onto a small hiking trail. The PNT would lead me through the Chuckanut
+Mountains (more like hills) and up to Oyster Dome, where I planned to camp at
+Bugs's recommendation.
+
+The trails were well-marked here and the woods were very beautiful, filled with
+old trees and those large prehistoric-looking sword ferns. There was that faint,
+sweet smell of rot or decay that I had noticed a week earlier while I was hiking
+around [Baker Lake]({% link _posts/cascades/2019-08-20-around-the-lake.markdown %}).
+The other prominent smell in the area was the thick detergent stench of day
+hikers and trail runners. I passed a lot of incredibly clean-looking people and
+felt slightly jealous -- my last shower had been in Concrete, and I knew I
+couldn't expect one until I made it to the Happy House (a trail angel house in
+the Puget Sound) in a few more days.
+
+I greatly enjoyed my evening hike in these woods. It was a refreshing break from
+wide dirt roads, but I knew I still had a lot of roadwalking ahead of me: Over
+the next 100 miles, almost 80 of them would be on roads.
+
+I camped out that night at Oyster Dome, a beautiful lookout over the bay. I
+wasn't sure if it was legal to camp there, but I set up quietly in the woods
+while a bunch of couples arrived two-by-two to watch the beginning of the
+sunset. Once it got toward dark, I had the place to myself to watch the
+fireworks.
+
+{% include photo.html id="200435" %}
+{% include photo.html id="201418" %}
+{% include photo.html id="195458" %}

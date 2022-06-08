@@ -1,3 +1,123 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2cbb27cf9ab1eed4117cc850ee26978d2e34787d1ae4dafcfb3423b3cd961206
-size 4407
+---
+layout: default
+comments: true
+---
+
+{%- assign cat = page.categories[0] -%}
+{%- assign categoryposts = site.posts | reverse -%}
+{%- assign prevtitle = null -%}
+{%- assign prevurl = null -%}
+{%- assign nexturl = null -%}
+{%- assign nexttitle = null -%}
+{%- assign next = null -%}
+
+{%- for catpost in categoryposts -%}
+  {%- if catpost.id == page.id -%}
+        {%- unless forloop.first -%}
+            {%- assign prevurl = prev.url -%}
+            {%- assign prevtitle = prev.title -%}
+            {%- assign prevcategory = prev.categories[0] -%}
+            {%- for sitecat in site.category -%}
+              {%- if prev.categories[0] == sitecat.tag -%}
+                {%- assign prevcategory = sitecat.name -%}
+              {%- endif -%}
+            {%- endfor -%}
+        {%- endunless -%}
+
+        {%- unless forloop.last -%}
+            {%- assign nextindex = forloop.index  -%}
+            {%- assign next = categoryposts[nextindex] -%}
+            {%- assign nexturl = next.url -%}
+            {%- assign nexttitle = next.title -%}
+            {%- for sitecat in site.category -%}
+              {%- if next.categories[0] == sitecat.tag -%}
+                {%- assign nextcategory = sitecat.name -%}
+              {%- endif -%}
+            {%- endfor -%}
+        {%- endunless -%}
+    {%- endif -%}
+    {%- assign prev = catpost -%}
+{%- endfor -%}
+
+
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+  <div class="breadcrumbs">
+        {%- if prevtitle -%}
+            <div class="prev-post">
+              <a class="post-link" href="{{ prevurl }}">
+                <p class="prev-category">{{ prevcategory }}</p>
+                <p>←&nbsp; {{- prevtitle -}}</p>
+              </a>
+            </div>
+        {%- endif -%}
+        {%- if nexttitle -%}
+            <div class="next-post">
+              <a class="post-link" href="{{ nexturl }}">
+                <p class="next-category">{{ nextcategory }}</p>
+                <p>{{- nexttitle -}} &nbsp;→ </p>
+              </a>
+            </div>
+        {%- endif -%}
+  </div>
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="{{- page.date | date_to_xmlschema -}}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{- page.date | date: date_format -}}
+      </time>
+      {%- if page.start_mile -%}
+      <br>
+      <span class="mileage start-mile">Start mile: {{ page.start_mile }} {%- if page.start_alternate -%}(alternate route){%- endif -%} </span>
+      {%- endif -%}
+      {%- if page.end_mile -%}
+      <br>
+      <span class="mileage end-mile">End mile: {{ page.end_mile }} {%- if page.end_alternate -%}(alternate route){%- endif -%} </span>
+      {%- endif -%}
+      {%- if page.author -%}
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+      {%- endif -%}
+    </p>
+  </header>
+
+    {% for p in posts_in_category %}
+        {{ p.title }}
+    {% endfor %}
+
+  {%- capture carousel_photos -%}
+    {%- for mp in page.map_pages -%}
+      /assets/maps/jpgs/mapset-{{ mp }}.jpg::
+    {%- endfor -%}
+  {%- endcapture -%}
+
+  {%- capture carousel_thumbs -%}
+    {%- for mp in page.map_pages -%}
+      /assets/thumbs/med/maps/mapset-{{ mp }}.jpg::
+    {%- endfor -%}
+  {%- endcapture -%}
+
+  {% assign cp = carousel_photos | split: '::' %}
+  {% assign ct = carousel_thumbs | split: '::' %}
+  {%- if page.map_pages -%}
+      <div class="map-carousel">
+          {%- include carousel.html instance="_maps" height="60" unit="%" photos=cp thumbs=ct -%}
+      </div>
+  {%- endif -%}
+
+  <div class="post-content e-content" itemprop="articleBody">
+      {{ content }}
+  </div>
+    {%- if nexttitle -%}
+      <div class="breadcrumbs">
+            {%- if prevtitle -%}
+                <div class="prev-post">
+                    <a class="post-link" href="{{ prevurl }}">←&nbsp; {{- prevtitle -}}</a>
+                </div>
+            {%- endif -%}
+            {%- if nexttitle -%}
+                <div class="next-post">
+                    <a class="post-link" href="{{nexturl}}">{{- nexttitle -}} &nbsp;→</a>
+                </div>
+            {%- endif -%}
+      </div>
+    {%- endif -%}

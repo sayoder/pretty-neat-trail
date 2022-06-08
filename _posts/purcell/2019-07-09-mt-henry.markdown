@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:30e1cb771be39dcc425433ec5c60204ee78fd44c284ce2c6c679c66df98a41f3
-size 1900
+---
+layout: post
+title: "Mt. Henry"
+start_mile: 158.1
+end_mile: 173.0
+map_pages: ["025","026"]
+categories: purcell
+---
+
+I was happy to have a fairly uneventful day after the dehydrated mountain climb
+that ended the previous day. I remember winding through these strange ridges
+and valleys, constantly checking my map and compass.
+
+{% include photo.html id="133718" caption="I finally caught a glimpse of the fire tower at the top of the mountain." %}
+
+The climb up to Mt. Henry was fairly easy, with incredible views near the top.
+On the way up, there was an ancient-looking scummy water cistern (W170). I
+carefully filled up there for the rest of the climb. Once I made it to the top,
+I spent a lot of time just taking in the view:
+
+{% include photo.html id="153758" %}
+{% include photo.html id="153809" caption="Unfortunately, the tower itself was boarded up." %}
+
+The hike down in the evening was fairly uneventful, and I remember being in kind
+of a bad mood for some reason. Probably just tired and lonely. But then I saw
+another human, after being alone for about a day. Even better, it was a PNT
+hiker - the only eastbounder I met on the whole trip. His name was Thor, I
+think. He was pushing 30s regularly - when I met him, he was at mile 32 for that
+day. He told me that he had just run into Cookie Monster and Morningstar, and
+Bugs and Moose the previous day! I was glad to hear I was catching up to them.
+
+I camped near Fish Lakes that night (C174). The water in the stream coming from
+the beaver-dammed lake was extremely warm.... and did, in fact, taste fishy.
+While I was eating dinner, I heard a low buzzing noise and noticed a tiny
+hummingbird and its nest right above my head! It was a joy to watch it fly back
+and forth to and from the nest.
+
+That night, I woke up a few times to the unsettling feeling of rodents rummaging
+around underneath my legs (and underneath the tent floor).

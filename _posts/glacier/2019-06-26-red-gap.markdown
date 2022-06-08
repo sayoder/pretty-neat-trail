@@ -1,3 +1,46 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6cf0620f91cc3cd7f31174cd202875c654eadaebd6cf71f47948837c7f04f9e2
-size 2312
+---
+layout: post
+title: "Red Gap"
+map_pages: ["glacier-08", "glacier-09"]
+categories: glacier
+---
+
+At Poia Lake, I camped next to a CDT hiker who had announced, "I snore a lot,
+hope that's not too much of a problem!" as he entered the campsite. So I had a
+pretty restless night and left the campground late in the morning.
+
+I filled up water at the lake with a CDT hiker, one of the only ones I met who
+was heading in the same direction as me (north). This was the first time I
+experienced a true swarm of Pacific Northwest mosquitos, a barrage of electric
+stings that sent my body into a kind of panic. I broke out the DEET for the
+first time and shared it with the other hiker before quickly packing up and
+moving on.
+
+That CDT hiker and I leapfrogged each other all morning, and occasionally
+stopped together and chatted on the way up to Red Gap Pass. At the top, we took
+a long break together and watched a herd of mountain goats, initially white
+specks in the distance, slowly make their way across a nearly-vertical cliff
+face to cross the pass directly in front of us.
+
+I passed that CDT hiker on the way down from the gap and never saw him again.
+
+{% include photo.html id="112832" %}
+{% include photo.html id="115424" caption='<i>Phacelia sericea</i>, "silky phacelia", the best flower I saw in Glacier. If I were a bee, I think I would absolutely psyched to pollinate this.' %}
+
+{% include photo.html id="124731" caption="Overlooking Elizabeth Lake"%}
+
+I camped alone at Elizabeth Lake that night. The next day, I only had about 6
+miles to hike, so I sat at a waterfall and read there for most of the day before
+heading to Gable Creek Campground. I spent some time talking to a ranger at the
+nearby ranger station. He seemed pretty lonely, and I was too, so I think we
+were both glad to have someone to talk to.
+
+I had finally officially reached part of the PNT, but I had 6 miles to hike out
+to the trailhead to meet Peter the next day. At Gable Creek Campground, I met my
+first fellow PNT hikers, an older couple named Robert and Mina. It was so good
+to chat with them. We took shelter from the rain under a big pine tree, and I
+helped them with their bear hang.
+
+I went to sleep that night excited to finally meet up with Peter the next day.
+
+{% include photo.html id="0627_121816" fullname=true %}

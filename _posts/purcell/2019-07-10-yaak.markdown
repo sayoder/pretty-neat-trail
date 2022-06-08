@@ -1,3 +1,50 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1ada49ff044d18560d0837be1a06e0f74895103b722a229a017c5e195cfcd413
-size 2677
+---
+layout: post
+title: "Yaak, MT"
+start_mile: 173.0
+end_mile: 188.3
+map_pages: ["026","027"]
+categories: purcell
+---
+
+The trail going over Bunker Hill was pretty overgrown and eroded. At times it
+was a struggle to keep myself from slipping off the side of the trail. At the
+top, I lost the trail entirely and had to do a fair amount of compass/map
+guesswork to get back on. I was listening to Earl Sweatshirt's noisy and
+disorienting new-ish album, *Some Rap Songs*.
+
+{% include photo.html id="102943" caption='<i>Alloclavaria purpurea</i>, the "purple fairy club"'%}
+
+I caught a hitch pretty quickly once I made it down the mountain to Yaak River
+Road. Downtown Yaak consists of two bars: The explicitly-racist "Dirty Shame
+Saloon" (confederate flag flying out front), and the
+probably-still-racist-but-not-as-proud-of-it "Yaak River Tavern". Someone at the
+bar told me that every year they have a crawdad festival, and everyone comes and
+gets shitfaced and eats tons of crawdads, and it always ends in a fight.
+
+I was surprised and excited to see Sam, Don, Morning Star, Cookie Monster,
+Cooper, and Maddie there! A veritable mob of PNT hikers. They had all ended up
+spending the night in Yaak, and they were visibly refreshed . I hadn't seen
+Cooper and Maddie since Glacier National Park, so I updated them on Hobbes
+leaving me. Sam and Don were now called Bugs and Moose, trail names that I think
+had been bestowed upon them by Cookie Monster and Morning Star.
+
+Cooper and Maddie actually ended up getting off-trail the next day. Maddie's
+feet were totally wrecked, like covered in painful sores and blisters, and
+neither of them were having enough fun to justify the pain. I think the story
+goes that they hiked out of Yaak to their campsite, finally ready to get back on
+trail, and Cooper realized that he left his tent rainfly back in Yaak. And that
+was the final straw.
+
+In any case, it was so great to hang out with some other humans there. I picked
+up the box that I shipped from Eureka, took a quick $2(?) shower, and moved out.
+Some guy at the mercantile named Shane gave me, Bugs, Moose, Cookie Monster, and
+Morning Star a ride out to the forest road (0186P), and we all camped together
+that night (0189P). I felt so happy camping with other people around after all the
+solitude of the previous week and a half or so.
+
+That evening, I was looking at the map and The Book Of Tim for the next day, and
+I noticed the Northwest Peak alternate route, which is described in the
+guidebook as "Not to be missed". I didn't want Tim to make me feel guilty for
+missing another scenic alternate, so I decided I had to hike a long day tomorrow
+to make it to the lookout cabin.

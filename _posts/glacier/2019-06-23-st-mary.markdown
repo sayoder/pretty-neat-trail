@@ -1,3 +1,54 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ff98d5a2bfbb1276182876f5d0aa24f99a4bca72701768f3050bfd4dfcabea21
-size 2738
+---
+layout: post
+title: "Connection"
+map_pages: ["glacier-05"]
+categories: glacier
+---
+
+I woke up to see rain clouds rolling in, and packed up my tent as quickly as I
+could. I wanted to get moving before the rain hit, and I wanted to be out of
+this burn area as quickly as possible.
+
+The hike along the south shore of St. Mary's Lake was fairly uneventful, but
+cold and wet for the whole day. The rain picked up slowly throughout the day,
+eventually soaking under my rain jacket. Stopping for water felt like too much
+work, so I just trudged on for the morning, slightly thirsty and snacking on
+handfuls of trail mix.
+
+{% include photo.html id="120446" catpion="View over St. Mary's Lake" width="60%" %}
+
+When I picked up on a sickeningly-sweet scent of laundry detergent, I knew I was
+getting close to the road. Day-hikers were swarming around a waterfall taking
+selfies. Talk among the day-hikers was that a grizzly bear was nearby -- it
+seemed like everyone saw it except for me, which left me feeling slightly
+disappointed.
+
+{% include photo.html id="132151" caption="Beargrass" width="60%" %}
+
+Even though I'm being pretentious and disdainful about the day-hikers, the
+reality is that I was so grateful for their presence. My hike so far had been
+pretty lonely save for a few CDT hikers, and it felt nice to be around other
+humans at all.
+
+With exactly these mixed feelings, I turned off of the day-hiker trail onto the
+trail toward Piegan Pass (by way of Reynolds Creek Campground, where I would be
+staying the night). It was a really mucky couple of miles. I ran into one of
+those intimidating ultralight CDT hikers with a tiny pack and no hiking poles,
+slamming down a huge bag of cheese curls while walking. He was pretty nice to
+me, though.
+
+I got to the campground, thirsty and hungry from neglecting my physical needs
+for the morning. I had that feeling where everything is wet and it seems like it
+will never be dry again. As I was sprawled out on the ground slathering peanut
+butter on a wet tortilla, another hiker walked up to the campsite looking just
+as cold, wet, and dejected as I was.
+
+The hiker's name was Meredith, and she was hiking the CDT southbound. We started
+doing normal hiker small talk, and the Appalachian Trail came up. She asked me
+what year I had hiked the AT. I said 2016, and she said, "Oh, me too." There was
+a 1-second pause, and I was hit by a wave of realization: We had actually met
+three years ago at a hiker hostel in Virginia! The amazement of meeting each
+other again seemed to lift both of our spirits and fight off the dreariness of
+the day. We talked excitedly for a while until the rain came back, then
+retreated to our tents for an afternoon nap, emerging for dinner a few hours
+later.

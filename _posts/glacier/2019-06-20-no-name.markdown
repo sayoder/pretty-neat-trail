@@ -1,3 +1,54 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2c31d4cd79da4231821d22eb6b6381f7704845e3da96960acf198acefa5756f5
-size 2753
+---
+layout: post
+title: "No Name"
+map_pages: ["glacier-02"]
+categories: glacier
+---
+
+I woke up at dawn that morning to set off on a tiny 5-mile day. Because of the
+park's permit system and the heavy CDT traffic, I had an awkwardly short day off
+the CDT followed by two longer days. I would re-join the CDT by hiking over
+Dawson Pass and Pitamakan Pass on the second day.
+
+The ranger at the station the previous day warned me that Dawson Pass still had
+some serious snow hazards, and she didn't have any reports of people hiking over
+it that season. And I would be hiking on a bad weather day. She encouraged me to
+backtrack to Two Medicine and hike up Pitamakan Pass from the southeast the next
+day if the weather was looking bad. This scared me enough that I decided to buy
+heavier gloves at the camp store near the ranger station.  I waited a few hours
+there until the store opened, chatting with some day-hikers, and picked up some
+very warm wool mittens. And some energy gels in case I started getting
+hypothermia (this is the only time in my life that I have ever bought or
+consumed energy gels.)
+
+If I had known that the ranger in the camp store was the last human I'd see in
+another 30 hours or so, I might have given him a hug or something.
+
+{% include photo.html id="083325" caption="Two Medicine Lake" %}
+
+{% include photo.html id="094114" caption="I kept wishing I had a geologist friend to tell me about all of the rocks in Glacier."%}
+
+{% include photo.html id="104549" caption="<i>Xeromphalina campanella</i>" %}
+{% include photo.html id="113845" caption='<i>Castilleja</i>, "Prairie-fire"'%}
+
+I started slowly working my way around Two Medicine Lake and up toward No Name
+Lake. I didn't want to hike too quickly and then sit in my tent for the entire
+evening, but then it started snowing...
+
+{% include photo.html id="121013" %}
+
+And with that, I decided to book it to my campsite and snuggle up in my quilt. I
+basically laid in my tent and hid from the cold for the entire evening. I was
+reading Michael Parenti's *Blackshirts & Reds* on my phone, but at some point I
+realized with dismay that I had accidentally left my phone battery bank at the
+hostel in East Glacier. Shoot. No more ebooks. So I shut off my phone and waited
+to fall asleep.
+
+No Name Lake is bordered by this massive 2000-foot cliff face - I tried to get a
+picture of it, but it was impossible to capture anything meaningful in a single
+frame. I took a picture of it the next day while climbing out of the valley, but
+it doesn't communicate the absolute awe I felt the first time I caught a glimpse
+of it across the lake.
+
+Throughout the night, I periodically woke up to the anxiety-inducing sound of
+boulders chipping off the cliff and slamming into the rocks below.

@@ -1,3 +1,67 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0b59e900ce5c289770fdb522277a968110d8f9b0c5681572c84dc3ea693cb2d3
-size 3309
+---
+start_mile: 365.2
+end_mile: 386.0
+layout: post
+title: "Sturgeon"
+categories: selkirk
+map_pages: ["046", "047", "048"]
+---
+
+Bambi and Brick were already gone by the time I peeked out of my tent in the
+morning. I was alone in the thick fog.
+
+On the descent, I knew I was missing some incredible views, but at least I could
+admire the alpine flowers at my feet as I plunged down the rocky southern
+shoulder of the mountain. The path down was well-marked by cairns, but at each
+cairn, I could just barely see the next one through the fog.
+
+The trail dipped below the treeline at about the same time as it descended
+out of the clouds. Even as the brush thickened, the trail was very
+well-maintained, and I had an uneventful hike down to the next forest road.
+
+{% include photo.html id="093953" width="60%" %}
+
+{% include photo.html id="091324" caption="A spruce grouse and her chick" %}
+
+When I made it to the road, the clouds started to clera up and I began the real
+challenge of the day. I had 23 full miles of roadwalking before I would get to
+Northport. My plan was to make it at least to the convenience store (0383P),
+then fill up on water and find a place to camp.
+
+The roadwalk was absolutely grueling -- the asphalt was tough on my feet, and I
+was sweating off sunscreen faster than I could put it on. There was almost no
+shade on this road, and I had to choose between walking in the hot sun and
+walking on the uncomfortably-sloped shoulder. Part of me hoped that some driver
+would take pity on me and ask if I needed a ride, but the other part of me was
+too proud to accept help and skip more trail miles.
+
+The convenience store was like an oasis in the desert. It was a grungy little
+gas station with its drink colers almost empty. Luckily, they still had plenty
+of 99-cent arizona iced tea. I bought one, sat on the curb outside the store,
+and downed it immediately. I went in and bought another, and chatted with the
+store owner for a while. He tipped me off about some private property that I
+could secretly camp on, right on the bank of the Columbia River. He said he knew
+the guy who owns it, but he's never actually around.
+
+I followed the store owner's instructions, walking about a half-mile down the
+road to a small driveway on the right. There were two figures far ahead of me on
+the road -- Probably Bambi and Brick, hoping to make it all the way to
+Northport.
+
+The driveway led under a beautiful old wooden railway bridge that smelled like
+hot pine tar and creaked every once in a while, expanding in the hot sun.
+Directly past the railway bridge was a sandy beach next to the river. This would
+be a perfect spot to rest for the afternoon and evening, and I could easily
+stealth-camp in the adjacent woods.
+
+{% include photo.html id="170634" width="60%" %}
+
+I drank my second Arizona Iced Tea and relaxed on the beach for a long time.
+Some fisherpeople came up and started fishing from the beach. One of them talked
+to me at length about all the sturgeon that he'd caught over his lifetime
+fishing in the Columbia River. He was really hoping to catch one that evening,
+but all he got was a tiny walleye.
+
+The fisherpeople left as it started getting dark. I cooked dinner there on the
+beach, and illegally set up my tent on the private property. I slept soundly on
+the soft, sandy loam.
