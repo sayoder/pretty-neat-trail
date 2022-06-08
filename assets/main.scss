@@ -1,3 +1,134 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:133d4d20ac76671de8fd2c90f0ce22a5ba7acb38c827d3e9308bda3df416b10a
-size 2295
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+code {
+    padding: 0px;
+}
+
+blockquote {
+    font-size: 16px;
+    letter-spacing: 0;
+}
+
+.post-meta {
+    margin-bottom: 0px;
+}
+
+// Homepage
+
+.category-list {
+    overflow: clip;
+    display: flex;
+    flex-direction: column;
+    // flex-wrap: wrap;
+    justify-content: center;
+}
+
+.category-image {
+    margin-bottom:5px;
+    height: 15rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-clip: border-box;
+    background-position: center center;
+    z-index: 2;
+    text-align: right;
+    position: relative;
+    cursor: pointer;
+
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    -webkit-tap-highlight-color: transparent;
+
+    a, a:visited {
+        color: white;
+    }
+
+    .category-text {
+        position: absolute;
+        text-align: left;
+        // overflow: hidden;
+        white-space: nowrap;
+        display: inline;
+        color: #fff;
+        font-size: 40px;
+        z-index: 3;
+        bottom: 0;
+        right: 0;
+
+        .category-number {
+            display: inline-block;
+            position: relative;
+            bottom: 0;
+            text-align: right;
+            margin-right: .2em;
+        }
+
+        .category-slidein {
+            display: inline-block;
+            right: 0;
+            position: absolute;
+            transform: translateX(100%);
+
+            .category-name {
+              font-size: 1.4rem;
+              position: absolute;
+              margin-left: .6em;
+              padding-left: .5em;
+              padding-right: .5em;
+              box-sizing: border-box;
+              border: .2em solid white;
+              bottom: 0.3em;
+            }
+        }
+    }
+}
+
+// Category page
+
+ul.post-list {
+    li {
+        list-style: none;
+    }
+}
+
+// Global
+
+.image {
+  text-align: center;
+}
+
+.inline-photo {
+  display: inline;
+}
+
+.breadcrumbs {
+  float: none;
+  display: block;
+  width: 100%;
+  overflow: auto;
+  margin-bottom: 1em;
+
+  .prev-post {
+    float: left;
+    display: inline-block;
+  }
+
+  .next-post {
+    float: right;
+    display: inline-block;
+  }
+
+  .post-link {
+    color: #888888;
+    font-size: 1em;
+  }
+
+  .prev-category, .next-category {
+      font-size: .8em;
+      margin-bottom: 0px;
+  }
+
+}
