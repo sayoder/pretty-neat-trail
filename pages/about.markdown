@@ -20,4 +20,5 @@ If you have any questions or comments, you can email them to me at
 <br>
 I made this site using [Jekyll](https://jekyllrb.com){:target="_blank_"}. I have barely touched the
 frontend because I'm mostly trying to get this stuff out of my head before I
-forget it, but maybe someday it'll look nice.
+forget it, but maybe someday it'll look nice. You can find the code at
+[https://github.com/sayoder/pretty-neat-trail](https://github.com/sayoder/pretty-neat-trail){:target="_blank_"}.

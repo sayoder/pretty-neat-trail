@@ -1,0 +1,14 @@
+---
+layout: post
+start_mile: 992.0
+end_mile: 1008.2
+map_pages: ["111", "112", "113"]
+title: "Ferry"
+categories: puget-sound
+---
+
+{% include photo.html id="105115" %}
+
+{% include photo.html id="105132" %}
+
+{% include photo.html id="135645" %}
