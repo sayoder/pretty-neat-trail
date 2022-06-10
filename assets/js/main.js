@@ -1,5 +1,5 @@
 function doSlideIn() {
-    var extra = 60;
+    var extra = 51;
     var bg = $(this).css('background-image');
 
     // $(this).css({

@@ -1,5 +1,6 @@
 ---
-trail_section: "0"
+trail_section_human: "0"
+trail_section: "00"
 tag: glacier
 name: "Glacier National Park"
 permalink: "/category/glacier"

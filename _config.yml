@@ -33,6 +33,9 @@ collections:
         output: true
         sort_by: trail_section
 
+feed:
+  disable: true
+
 defaults:
   -
     scope:
