@@ -57,8 +57,10 @@ stink of Port Townsend: A paper mill west of town would occasionally cover the
 town in a nauseating stench. I wasn't sure what I was supposed to do with this
 information, but at least I knew.
 
+&nbsp;
 <hr>
 &nbsp;
+
 I went through the rest of my trail mix and cheez-its standing on the deck of
 the ferry, letting the wind whip around me. It was cold, but I was dressed in
 layers with leggings and a rain jacket. A stranger asked me for a photo and took
@@ -73,4 +75,22 @@ powdered milk, and pack liners.
 
 I sat on a curb outside the post office to pore over my maps for the next
 section. I was so excited to get back into the mountains on real trails, and
-also for the final beach walk.
+for the final beach walk.
+
+The rest of my time in the cutesy town of Port Townsend was relaxing and fairly
+uneventful. I went to dinner with Rebecca, Marguerite, and one of their friends
+who they met on the Te Araroa. We stayed with an older trail angel couple, Dan
+and Lys Burden, who were more well-known as hosts for long-distance bikers --
+their house was quite full of guests, so I slept on my sleeping pad on their
+deck.
+
+I took a zero day and bummed around town all day, sipping too many cups of
+coffee on the docks, calling friends and loved ones back home, binging on wifi.
+I ate an artisanal scone with clotted cream. A life of decadence and hedonism.
+
+Back at the house, I made dinner with Rebecca and Marguerite, then got in a long
+conversation with Lys, our host. She and her husband were prolific touring
+cyclists, and she told me a bit about their adventures, and then about the
+native people who used to live in this part of the country, and the whitewashed
+history of their first encounters with white settlers. I went to sleep on the
+deck again with a full belly, very ready to get back on the trail the next day.
