@@ -29,8 +29,8 @@ gorges in the tallest mountains, places where sunlight probably never reached.
 As I climbed the final 300 feet up to the pass, a butterfly flitted around me,
 seemingly enjoying the hike as much as I was.
 
-I stopped at the pass for a long break and a trail selfie an ordeal which
-involved 10 minutes of balancing my camera on rocks and awkwardly posing. Down
+I stopped at the pass for a long break and a trail selfie (an ordeal which
+involved 10 minutes of balancing my camera on rocks and awkwardly posing). Down
 in the meadow on the other side of the pass, three people were walking with a
 horse. I watched them climb up toward the pass as I dug into my bag of trail
 mix.
