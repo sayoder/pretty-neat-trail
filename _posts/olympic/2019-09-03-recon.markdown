@@ -1,0 +1,80 @@
+---
+layout: post
+start_mile: 1061.8
+end_mile: 1079.9
+map_pages: ["123", "124", "125"]
+title: "Recon"
+categories: olympic
+---
+
+As I was making it back up to the PNT proper that morning, I saw a fairly short
+figure carrying hiking westbound at an alarming speed. Was there a PNT hiker
+behind me who I hadn't heard of? I knew that Shepherd, Karma, and Teddy weren't
+far behind. Bugs and Moose were at least a half-day ahead, having taken an
+alternate route to bypass trails they'd already hiked. Cookie Monster and
+Morning Star should be over a day ahead; Rebecca and Marguerite as well. The
+trail community was so small that I could hardly imagine seeing a thru-hiker
+that I hadn't already heard of.
+
+But this person I saw from a distance was unmistakably a thru-hiker. The filthy
+Hyperlite pack, the Altra trail runners, the cut calf muscles, ratty shirt,
+short shorts.
+
+{% include photo.html id="093032" %}
+
+My questions were answered when I made it to the next campsite for a snack
+break. I meandered along the ridgeline into the National Park boundary, to the
+Home Lake campsite. A little stream flowed behind an AT-style shelter, and the
+hiker I'd seen earlier was sitting there. After asking if he was a PNT hiker, I
+learned that his trail name was Recon, and he'd started a few weeks after me in
+Glacier National Park. I didn't need to do very much mental math to realize that
+he'd been hiking a huge number of miles per day. It was nice to finally talk to
+another thru-hiker -- we were both planning to stay down in the valley at Bear
+Camp, so I continued on a few minutes after him, knowing that we'd see each
+other again.
+
+{% include photo.html id="121829" %}
+
+{% include photo.html id="122947" %}
+
+I took a long lunch break at Constance Pass, scrambling up toward one of the
+peaks to get a better view. The wind was grating toward the peak, but someone
+had made a wind barrier out of small rocks there, and I was grateful to have a
+bit of shelter while I made myself a tuna wrap.
+
+I had a rapid 4000-foot descent ahead of me. Just as I started curving down the
+mountain, I came upon a large patch of snow with markings in it. Coming closer,
+I could make it out
+
+<p style="text-align: center;"><i>CM + MS</i></p>
+
+and a large smiley face -- Cookie Monster and Morning Star's signature. About 20
+feet below that, another message:
+<p style="text-align: center; margin-bottom: 0px;"><i>BUGS</i></p>
+<p style="text-align: center; margin-bottom: 0px;"><i>+</i></p>
+<p style="text-align: center; margin-bottom: 0px;"><i>MOOSE</i></p>
+<br>
+Seeing my friends' names in the snow gave me such a jolt of joy that I shouted
+out loud. I felt so much less alone knowing they'd just been here. I left my own
+mark underneath theirs, and started running straight down the hill. The trail
+sson descended into some more beautiful cedar-fir forest. As much as I loved
+being toward the mountaintops, It felt wonderful to be back in the comfort and
+safety of the forest.
+
+As soon as I finished the descent, it was extremely fast hiking along the flat
+valley floor. I coasted to the Deception Creek campsite. Here, I found some
+extremely plump huckleberries, and I also had plenty of extra time, so I took a
+long break to enjoy some huckleberry "cobbler" with brown sugar Pop Tarts and
+powdered milk. I sat next to the creek and watched the water pour over the
+boulders.
+
+Recon was already eating dinner by the time I made it to Bear Camp. There was a
+little shelter there, and we agreed to share it -- neither of us wanted to stay
+in there alone at a place with "bear" in the name. While I sat down to eat
+dinner, I learned that he had taken a year off to hike long-distance trails. He
+hiked the Appalachian Trail in the previous year, then flew to New Zealand to
+hike the Te Araroa during the southern hemisphere's summer season, then flew
+back to the US to hike the PNT.
+
+We set up our sleeping pads on the hard wooden bunk platforms inside the
+shelter, and I was asleep before the sun went down.
