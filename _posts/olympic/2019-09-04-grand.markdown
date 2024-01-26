@@ -1,0 +1,67 @@
+---
+layout: post
+start_mile: 1079.9
+end_mile: 1092.3
+map_pages: ["125", "126", "119"]
+title: "Grand"
+categories: olympic
+grand_photos: ["/assets/pix/0904_154452.jpg", "/assets/pix/0904_155824.jpg", "/assets/pix/0904_161806.jpg", "/assets/pix/0904_161811.jpg", "/assets/pix/0904_162603.jpg"]
+---
+
+I'm not sure if it was the bright morning light that woke me up, or back pain
+from sleeping on a wooden slab all night. I do know that Recon had already
+silently slipped out of the shelter and packed up. He had just started down the
+trail and I shouted a goodbye, knowing I probably wouldn't catch up to him
+again. I had big plans for the day: A 21-mile hike along an alternate route with
+three huge climbs over alpine passes.
+
+{% include photo.html id="092251" %}
+
+I dashed over to the Dose Meadows camp to relieve myself and fill up on water
+for my day. There were a couple camo-clad canvas-backpack Outdoor Man guys up
+there (you know the type?) and I made uncomfortable small talk in my twinky
+short-shorts hiker outfit before setting off up to Lost Pass.
+
+The climb was a straight-shot up a steep grade with scrubby bushes giving way
+to bare scree. The trail was barely defined on the slope, but easy enough to
+follow. I didn't even take a break at the top because it was already late in the
+morning, and I decided to take a break at the top of the next one. So I swiftly
+crossed the horseshoe-shaped valley to the next 1000-foot climb toward Cameron
+Pass. A 200-foot scree scramble to the left of the pass was too enticing to pass
+up, so I continued until I made it to the very top.
+
+{% include photo.html id="113418" %}
+
+The day was so clear that I could see the white domes of both Mount Baker and
+Mount Rainier (unforunately, my camera's dynamic range was apparently not wide
+enough to capture them). I paired this once-in-a-lifetime view with a ziploc bag
+of pulverized Cheez-Its. Some other hiker climbed the pass from the alternate
+direction and shouted up to me to ask about how the view was. Amazing,
+obviously. I passed him on the way down and we traded pleasantries.
+
+The other side of the pass was a totally barren scree field with (somehow,
+still) a crystal-clear snow-melt stream flowing from the slope of Mount Cameron.
+A descent down the semi-treacherous scree slope brought me to the water and I
+filled up, surrounded by cushions of bright-purple heather.
+
+{% include photo.html id="123017" width="70%" %}
+
+{% include photo.html id="124311" width="70%" %}
+
+I was unfortunately running a bit late, possibly from my long break at Cameron
+Pass, and I still had a huge pass to climb later in the day. So I took off along
+the partially-maintained Cameron Creek trail. The trail wound through some
+scraggly forest and brush. By the time I made it to the Grand Pass climb, I was
+feeling extremely tired. I took a break at the bottom and powered through to the
+very top.
+
+The thought struck me that this was the highest elevation I would see before the
+end of my hike. It was hard not to feel a tiny bit devastated about this. I
+tried to savor the experience and also attempted to take one last awkward selfie
+of myself at the very top of a mountain.
+
+{% include carousel.html caption="" instance="grand" photos=page.grand_photos %}
+
+By the time I was ready to come down, the sun was noticeably sinking toward the
+horizon. I wound down to camp at Grand Lake, in a quiet, wooded little tent
+spot. I was extremely tired and slept soundly.
