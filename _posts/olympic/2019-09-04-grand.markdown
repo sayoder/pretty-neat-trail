@@ -60,7 +60,7 @@ end of my hike. It was hard not to feel a tiny bit devastated about this. I
 tried to savor the experience and also attempted to take one last awkward selfie
 of myself at the very top of a mountain.
 
-{% include carousel.html caption="" instance="grand" photos=page.grand_photos %}
+{% include carousel.html caption="Warning: thicc thighs" instance="grand" photos=page.grand_photos %}
 
 By the time I was ready to come down, the sun was noticeably sinking toward the
 horizon. I wound down to camp at Grand Lake, in a quiet, wooded little tent
