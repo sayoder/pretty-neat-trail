@@ -7,6 +7,12 @@ title: "Gordy's Pizza and Pasta"
 categories: olympic
 ---
 
-I set my alarm in the morning instead of letting the sun wake me up. I had to
-make it down to Port Angeles for a resupply, and wanted to make sure I didn't
-get in after dark.
+I woke up to the buzz of my phone alarm in the morning instead of letting the
+sunlight wake me up. I had to make it down to Port Angeles for a resupply, and
+wanted to make sure I didn't get in after dark.
+
+{% include photo.html id="081045" %}
+
+{% include photo.html id="081124" %}
+
+
