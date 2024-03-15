@@ -33,8 +33,8 @@ up, so I continued until I made it to the very top.
 {% include photo.html id="113418" %}
 
 The day was so clear that I could see the white domes of both Mount Baker and
-Mount Rainier (unforunately, my camera's dynamic range was apparently not wide
-enough to capture them). I paired this once-in-a-lifetime view with a ziploc bag
+Mount Rainier (unforunately, I was unable to capture them with my camera due to
+dynamic range issues). I paired this once-in-a-lifetime view with a ziploc bag
 of pulverized Cheez-Its. Some other hiker climbed the pass from the alternate
 direction and shouted up to me to ask about how the view was. Amazing,
 obviously. I passed him on the way down and we traded pleasantries.
